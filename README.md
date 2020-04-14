@@ -69,7 +69,7 @@ Reference: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-10
 - [ ] Palindromic Substrings - https://leetcode.com/problems/palindromic-substrings/
 - [ ] Encode and Decode Strings (Leetcode Premium) - https://leetcode.com/problems/encode-and-decode-strings/
 ### Tree
-- [ ] Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/
+- [x] Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/
 - [ ] Same Tree - https://leetcode.com/problems/same-tree/
 - [ ] Invert/Flip Binary Tree - https://leetcode.com/problems/invert-binary-tree/
 - [ ] Binary Tree Maximum Path Sum - https://leetcode.com/problems/binary-tree-maximum-path-sum/
