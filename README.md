@@ -46,7 +46,7 @@ Reference: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-10
 - [ ] Meeting Rooms (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms/
 - [ ] Meeting Rooms II (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms-ii/
 ### Linked List
-- [ ] Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
+- [x] Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
 - [ ] Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
 - [x] Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
 - [ ] Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
