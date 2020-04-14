@@ -58,7 +58,7 @@ Reference: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-10
 - [ ] Rotate Image - https://leetcode.com/problems/rotate-image/
 - [ ] Word Search - https://leetcode.com/problems/word-search/
 ### String
-- [ ] Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
+- [x] Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
 - [ ] Longest Repeating Character Replacement - https://leetcode.com/problems/longest-repeating-character-replacement/
 - [ ] Minimum Window Substring - https://leetcode.com/problems/minimum-window-substring/
 - [ ] Valid Anagram - https://leetcode.com/problems/valid-anagram/
