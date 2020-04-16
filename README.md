@@ -37,7 +37,7 @@ Reference: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-10
 - [ ] Jump Game - https://leetcode.com/problems/jump-game/
 ### Linked List
 - [x] Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
-- [ ] Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
+- [x] Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
 - [x] Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
 - [ ] Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
 - [x] Remove Nth Node From End Of List - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
