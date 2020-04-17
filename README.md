@@ -41,7 +41,7 @@ Reference: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-10
 - [x] Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
 - [ ] Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
 - [x] Remove Nth Node From End Of List - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-- [ ] Reorder List - https://leetcode.com/problems/reorder-list/
+- [x] Reorder List - https://leetcode.com/problems/reorder-list/
 ### Interval
 - [ ] Insert Interval - https://leetcode.com/problems/insert-interval/
 - [ ] Merge Intervals - https://leetcode.com/problems/merge-intervals/
