@@ -25,7 +25,7 @@ Reference: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-10
 - [ ] Encode and Decode Strings (Leetcode Premium) - https://leetcode.com/problems/encode-and-decode-strings/
 ### Dynamic Programming
 - [x] Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
-- [ ] Coin Change - https://leetcode.com/problems/coin-change/
+- [x] Coin Change - https://leetcode.com/problems/coin-change/
 - [ ] Longest Increasing Subsequence - https://leetcode.com/problems/longest-increasing-subsequence/
 - [ ] Longest Common Subsequence - https://leetcode.com/problems/longest-common-subsequence/
 - [ ] Word Break Problem - https://leetcode.com/problems/word-break/
