@@ -1,90 +1,126 @@
 ### Hand-picked Top 75 LeetCode Questions
-Reference: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+
+Reference:
+https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 
 ### Array
-- [x] Two Sum - https://leetcode.com/problems/two-sum/
-- [x] Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-- [x] Contains Duplicate - https://leetcode.com/problems/contains-duplicate/
-- [x] Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
-- [x] Maximum Subarray - https://leetcode.com/problems/maximum-subarray/
-- [ ] Maximum Product Subarray - https://leetcode.com/problems/maximum-product-subarray/
-- [x] Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
-- [x] Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
-- [x] 3Sum - https://leetcode.com/problems/3sum/
-- [ ] Container With Most Water - https://leetcode.com/problems/container-with-most-water/
+
+- [x] Two Sum (Easy) - https://leetcode.com/problems/two-sum/
+- [x] Best Time to Buy and Sell Stock (Easy) -
+      https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+- [x] Contains Duplicate (Easy) - https://leetcode.com/problems/contains-duplicate/
+- [x] Maximum Subarray (Easy) - https://leetcode.com/problems/maximum-subarray/
+- [x] Product of Array Except Self (Medium) -
+      https://leetcode.com/problems/product-of-array-except-self/
+- [ ] Maximum Product Subarray (Medium) - https://leetcode.com/problems/maximum-product-subarray/
+- [x] Find Minimum in Rotated Sorted Array (Medium) -
+      https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+- [x] Search in Rotated Sorted Array (Medium) -
+      https://leetcode.com/problems/search-in-rotated-sorted-array/
+- [x] 3Sum (Medium) - https://leetcode.com/problems/3sum/
+- [ ] Container With Most Water (Medium) - https://leetcode.com/problems/container-with-most-water/
+
 ### String
-- [x] Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
-- [ ] Longest Repeating Character Replacement - https://leetcode.com/problems/longest-repeating-character-replacement/
-- [ ] Minimum Window Substring - https://leetcode.com/problems/minimum-window-substring/
-- [x] Valid Anagram - https://leetcode.com/problems/valid-anagram/
-- [x] Group Anagrams - https://leetcode.com/problems/group-anagrams/
-- [x] Valid Parentheses - https://leetcode.com/problems/valid-parentheses/
-- [x] Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
-- [ ] Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
-- [ ] Palindromic Substrings - https://leetcode.com/problems/palindromic-substrings/
-- [ ] Encode and Decode Strings (Leetcode Premium) - https://leetcode.com/problems/encode-and-decode-strings/
+
+- [x] Valid Anagram (Easy) - https://leetcode.com/problems/valid-anagram/
+- [x] Valid Parentheses (Easy) - https://leetcode.com/problems/valid-parentheses/
+- [x] Valid Palindrome (Easy) - https://leetcode.com/problems/valid-palindrome/
+- [x] Longest Substring Without Repeating Characters (Medium) -
+      https://leetcode.com/problems/longest-substring-without-repeating-characters/
+- [ ] Longest Repeating Character Replacement (Medium) -
+      https://leetcode.com/problems/longest-repeating-character-replacement/
+- [x] Group Anagrams (Medium) - https://leetcode.com/problems/group-anagrams/
+- [ ] Longest Palindromic Substring (Medium) -
+      https://leetcode.com/problems/longest-palindromic-substring/
+- [ ] Palindromic Substrings (Medium) - https://leetcode.com/problems/palindromic-substrings/
+- [ ] Minimum Window Substring (Hard) - https://leetcode.com/problems/minimum-window-substring/
+
 ### Dynamic Programming
-- [x] Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
-- [x] Coin Change - https://leetcode.com/problems/coin-change/
-- [ ] Longest Increasing Subsequence - https://leetcode.com/problems/longest-increasing-subsequence/
-- [ ] Longest Common Subsequence - https://leetcode.com/problems/longest-common-subsequence/
-- [ ] Word Break Problem - https://leetcode.com/problems/word-break/
-- [ ] Combination Sum - https://leetcode.com/problems/combination-sum-iv/
-- [x] House Robber - https://leetcode.com/problems/house-robber/
-- [ ] House Robber II - https://leetcode.com/problems/house-robber-ii/
-- [ ] Decode Ways - https://leetcode.com/problems/decode-ways/
-- [ ] Unique Paths - https://leetcode.com/problems/unique-paths/
-- [ ] Jump Game - https://leetcode.com/problems/jump-game/
+
+- [x] Climbing Stairs (Easy) - https://leetcode.com/problems/climbing-stairs/
+- [x] House Robber (Easy) - https://leetcode.com/problems/house-robber/
+- [x] Coin Change (Medium) - https://leetcode.com/problems/coin-change/
+- [ ] Longest Increasing Subsequence (Medium) -
+      https://leetcode.com/problems/longest-increasing-subsequence/
+- [ ] Longest Common Subsequence (Medium) -
+      https://leetcode.com/problems/longest-common-subsequence/
+- [ ] Word Break (Medium) - https://leetcode.com/problems/word-break/
+- [ ] Combination Sum IV (Medium) - https://leetcode.com/problems/combination-sum-iv/
+- [ ] House Robber II (Medium) - https://leetcode.com/problems/house-robber-ii/
+- [ ] Decode Ways (Medium) - https://leetcode.com/problems/decode-ways/
+- [ ] Unique Paths (Medium) - https://leetcode.com/problems/unique-paths/
+- [ ] Jump Game (Medium) - https://leetcode.com/problems/jump-game/
+
 ### Linked List
-- [x] Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
-- [x] Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
-- [x] Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
-- [x] Remove Nth Node From End Of List - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-- [x] Reorder List - https://leetcode.com/problems/reorder-list/
+
+- [x] Reverse a Linked List (Easy) - https://leetcode.com/problems/reverse-linked-list/
+- [x] Detect Cycle in a Linked List (Easy) - https://leetcode.com/problems/linked-list-cycle/
+- [x] Merge Two Sorted Lists (Easy) - https://leetcode.com/problems/merge-two-sorted-lists/
+- [x] Remove Nth Node From End Of List (Medium) -
+      https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+- [x] Reorder List (Medium) - https://leetcode.com/problems/reorder-list/
+
 ### Interval
-- [ ] Insert Interval - https://leetcode.com/problems/insert-interval/
-- [ ] Merge Intervals - https://leetcode.com/problems/merge-intervals/
-- [ ] Non-overlapping Intervals - https://leetcode.com/problems/non-overlapping-intervals/
-- [ ] Meeting Rooms (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms/
-- [ ] Meeting Rooms II (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms-ii/
+
+- [ ] Merge Intervals (Medium) - https://leetcode.com/problems/merge-intervals/
+- [ ] Non-overlapping Intervals (Medium) - https://leetcode.com/problems/non-overlapping-intervals/
+- [ ] Insert Interval (Hard) - https://leetcode.com/problems/insert-interval/
 
 ### Matrix
-- [x] Set Matrix Zeroes - https://leetcode.com/problems/set-matrix-zeroes/
-- [x] Spiral Matrix - https://leetcode.com/problems/spiral-matrix/
-- [ ] Rotate Image - https://leetcode.com/problems/rotate-image/
-- [ ] Word Search - https://leetcode.com/problems/word-search/
+
+- [x] Set Matrix Zeroes (Medium) - https://leetcode.com/problems/set-matrix-zeroes/
+- [x] Spiral Matrix (Medium) - https://leetcode.com/problems/spiral-matrix/
+- [ ] Rotate Image (Medium) - https://leetcode.com/problems/rotate-image/
+- [ ] Word Search (Medium) - https://leetcode.com/problems/word-search/
+
 ### Heap
-- [ ] Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
-- [x] Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/
-- [ ] Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/
+
+- [x] Top K Frequent Elements (Medium) - https://leetcode.com/problems/top-k-frequent-elements/
+- [ ] Merge K Sorted Lists (Hard) - https://leetcode.com/problems/merge-k-sorted-lists/
+- [ ] Find Median from Data Stream (Hard) -
+      https://leetcode.com/problems/find-median-from-data-stream/
 
 ### Tree
-- [x] Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/
-- [x] Same Tree - https://leetcode.com/problems/same-tree/
-- [x] Invert/Flip Binary Tree - https://leetcode.com/problems/invert-binary-tree/
-- [ ] Binary Tree Maximum Path Sum - https://leetcode.com/problems/binary-tree-maximum-path-sum/
-- [x] Binary Tree Level Order Traversal - https://leetcode.com/problems/binary-tree-level-order-traversal/
-- [ ] Serialize and Deserialize Binary Tree - https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
-- [ ] Subtree of Another Tree - https://leetcode.com/problems/subtree-of-another-tree/
-- [ ] Construct Binary Tree from Preorder and Inorder Traversal - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
-- [ ] Validate Binary Search Tree - https://leetcode.com/problems/validate-binary-search-tree/
-- [ ] Kth Smallest Element in a BST - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
-- [ ] Lowest Common Ancestor of BST - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
-- [ ] Implement Trie (Prefix Tree) - https://leetcode.com/problems/implement-trie-prefix-tree/
-- [ ] Add and Search Word - https://leetcode.com/problems/add-and-search-word-data-structure-design/
-- [ ] Word Search II - https://leetcode.com/problems/word-search-ii/
+
+- [x] Maximum Depth of Binary Tree (Easy) -
+      https://leetcode.com/problems/maximum-depth-of-binary-tree/
+- [x] Same Tree (Easy) - https://leetcode.com/problems/same-tree/
+- [x] Invert/Flip Binary Tree (Easy) - https://leetcode.com/problems/invert-binary-tree/
+- [ ] Subtree of Another Tree (Easy) - https://leetcode.com/problems/subtree-of-another-tree/
+- [ ] Lowest Common Ancestor of BST (Easy) -
+      https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+- [x] Binary Tree Level Order Traversal (Medium) -
+      https://leetcode.com/problems/binary-tree-level-order-traversal/
+- [ ] Construct Binary Tree from Preorder and Inorder Traversal (Medium) -
+      https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+- [ ] Validate Binary Search Tree (Medium) -
+      https://leetcode.com/problems/validate-binary-search-tree/
+- [ ] Kth Smallest Element in a BST (Medium) -
+      https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+- [ ] Implement Trie, i.e. Prefix Tree (Medium) -
+      https://leetcode.com/problems/implement-trie-prefix-tree/
+- [ ] Add and Search Word (Medium) -
+      https://leetcode.com/problems/add-and-search-word-data-structure-design/
+- [ ] Binary Tree Maximum Path Sum (Hard) -
+      https://leetcode.com/problems/binary-tree-maximum-path-sum/
+- [ ] Serialize and Deserialize Binary Tree (Hard) -
+      https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+- [ ] Word Search II (Hard) - https://leetcode.com/problems/word-search-ii/
+
 ### Graph
-- [ ] Clone Graph - https://leetcode.com/problems/clone-graph/
-- [ ] Course Schedule - https://leetcode.com/problems/course-schedule/
-- [ ] Pacific Atlantic Water Flow - https://leetcode.com/problems/pacific-atlantic-water-flow/
-- [ ] Number of Islands - https://leetcode.com/problems/number-of-islands/
-- [ ] Longest Consecutive Sequence - https://leetcode.com/problems/longest-consecutive-sequence/
-- [ ] Alien Dictionary (Leetcode Premium) - https://leetcode.com/problems/alien-dictionary/
-- [ ] Graph Valid Tree (Leetcode Premium) - https://leetcode.com/problems/graph-valid-tree/
-- [ ] Number of Connected Components in an Undirected Graph (Leetcode Premium) - https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
+
+- [x] Number of Islands (Medium) - https://leetcode.com/problems/number-of-islands/
+- [ ] Clone Graph (Medium) - https://leetcode.com/problems/clone-graph/
+- [ ] Course Schedule (Medium) - https://leetcode.com/problems/course-schedule/
+- [ ] Pacific Atlantic Water Flow (Medium) -
+      https://leetcode.com/problems/pacific-atlantic-water-flow/
+- [ ] Longest Consecutive Sequence (Hard) -
+      https://leetcode.com/problems/longest-consecutive-sequence/
+
 ### Binary
-- [ ] Sum of Two Integers - https://leetcode.com/problems/sum-of-two-integers/
-- [ ] Number of 1 Bits - https://leetcode.com/problems/number-of-1-bits/
-- [ ] Counting Bits - https://leetcode.com/problems/counting-bits/
-- [x] Missing Number - https://leetcode.com/problems/missing-number/
-- [ ] Reverse Bits - https://leetcode.com/problems/reverse-bits/
+
+- [ ] Sum of Two Integers (Easy) - https://leetcode.com/problems/sum-of-two-integers/
+- [ ] Number of 1 Bits (Easy) - https://leetcode.com/problems/number-of-1-bits/
+- [x] Missing Number (Easy) - https://leetcode.com/problems/missing-number/
+- [ ] Reverse Bits (Easy) - https://leetcode.com/problems/reverse-bits/
+- [ ] Counting Bits (Medium) - https://leetcode.com/problems/counting-bits/
