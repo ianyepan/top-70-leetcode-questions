@@ -86,7 +86,7 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-
       https://leetcode.com/problems/maximum-depth-of-binary-tree/
 - [x] Same Tree **(Easy)** - https://leetcode.com/problems/same-tree/
 - [x] Invert/Flip Binary Tree **(Easy)** - https://leetcode.com/problems/invert-binary-tree/
-- [ ] Subtree of Another Tree **(Easy)** - https://leetcode.com/problems/subtree-of-another-tree/
+- [x] Subtree of Another Tree **(Easy)** - https://leetcode.com/problems/subtree-of-another-tree/
 - [ ] Lowest Common Ancestor of BST **(Easy)** -
       https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 - [x] Binary Tree Level Order Traversal **(Medium)** -
