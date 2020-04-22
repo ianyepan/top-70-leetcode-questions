@@ -1,7 +1,6 @@
 ### Hand-picked Top 75 LeetCode Questions
 
-Reference:
-https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+[Reference](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 
 ### Array
 
