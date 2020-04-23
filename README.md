@@ -41,7 +41,7 @@
 - [x] Coin Change **(Medium)** - https://leetcode.com/problems/coin-change/
 - [ ] Longest Increasing Subsequence **(Medium)** -
       https://leetcode.com/problems/longest-increasing-subsequence/
-- [ ] Longest Common Subsequence **(Medium)** -
+- [x] Longest Common Subsequence **(Medium)** -
       https://leetcode.com/problems/longest-common-subsequence/
 - [ ] Word Break **(Medium)** - https://leetcode.com/problems/word-break/
 - [ ] Combination Sum IV **(Medium)** - https://leetcode.com/problems/combination-sum-iv/
