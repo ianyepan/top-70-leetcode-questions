@@ -92,7 +92,7 @@
       https://leetcode.com/problems/binary-tree-level-order-traversal/
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal **(Medium)** -
       https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
-- [ ] Validate Binary Search Tree **(Medium)** -
+- [x] Validate Binary Search Tree **(Medium)** -
       https://leetcode.com/problems/validate-binary-search-tree/
 - [ ] Kth Smallest Element in a BST **(Medium)** -
       https://leetcode.com/problems/kth-smallest-element-in-a-bst/
