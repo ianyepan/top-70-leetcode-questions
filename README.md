@@ -39,7 +39,7 @@
 - [x] Climbing Stairs **(Easy)** - https://leetcode.com/problems/climbing-stairs/
 - [x] House Robber **(Easy)** - https://leetcode.com/problems/house-robber/
 - [x] Coin Change **(Medium)** - https://leetcode.com/problems/coin-change/
-- [ ] Longest Increasing Subsequence **(Medium)** -
+- [x] Longest Increasing Subsequence **(Medium)** -
       https://leetcode.com/problems/longest-increasing-subsequence/
 - [x] Longest Common Subsequence **(Medium)** -
       https://leetcode.com/problems/longest-common-subsequence/
