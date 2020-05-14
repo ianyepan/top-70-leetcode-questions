@@ -29,7 +29,7 @@
 - [x] Longest Repeating Character Replacement **(Medium)** -
       https://leetcode.com/problems/longest-repeating-character-replacement/
 - [x] Group Anagrams **(Medium)** - https://leetcode.com/problems/group-anagrams/
-- [ ] Longest Palindromic Substring **(Medium)** -
+- [x] Longest Palindromic Substring **(Medium)** -
       https://leetcode.com/problems/longest-palindromic-substring/
 - [ ] Palindromic Substrings **(Medium)** - https://leetcode.com/problems/palindromic-substrings/
 - [ ] Minimum Window Substring **(Hard)** - https://leetcode.com/problems/minimum-window-substring/
