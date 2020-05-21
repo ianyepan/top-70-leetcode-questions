@@ -43,7 +43,7 @@
       https://leetcode.com/problems/longest-increasing-subsequence/
 - [x] Longest Common Subsequence **(Medium)** -
       https://leetcode.com/problems/longest-common-subsequence/
-- [ ] Word Break **(Medium)** - https://leetcode.com/problems/word-break/
+- [x] Word Break **(Medium)** - https://leetcode.com/problems/word-break/
 - [ ] Combination Sum IV **(Medium)** - https://leetcode.com/problems/combination-sum-iv/
 - [ ] House Robber II **(Medium)** - https://leetcode.com/problems/house-robber-ii/
 - [ ] Decode Ways **(Medium)** - https://leetcode.com/problems/decode-ways/
