@@ -62,7 +62,7 @@
 ### Interval
 
 - [x] Merge Intervals **(Medium)** - https://leetcode.com/problems/merge-intervals/
-- [ ] Non-overlapping Intervals **(Medium)** - https://leetcode.com/problems/non-overlapping-intervals/
+- [x] Non-overlapping Intervals **(Medium)** - https://leetcode.com/problems/non-overlapping-intervals/
 - [ ] Insert Interval **(Hard)** - https://leetcode.com/problems/insert-interval/
 
 ### Matrix
