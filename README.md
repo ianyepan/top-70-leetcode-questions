@@ -94,7 +94,7 @@
       https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 - [x] Validate Binary Search Tree **(Medium)** -
       https://leetcode.com/problems/validate-binary-search-tree/
-- [ ] Kth Smallest Element in a BST **(Medium)** -
+- [x] Kth Smallest Element in a BST **(Medium)** -
       https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 - [ ] Implement Trie, i.e. Prefix Tree **(Medium)** -
       https://leetcode.com/problems/implement-trie-prefix-tree/
