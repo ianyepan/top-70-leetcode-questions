@@ -47,7 +47,7 @@
 - [ ] Combination Sum IV **(Medium)** - https://leetcode.com/problems/combination-sum-iv/
 - [ ] House Robber II **(Medium)** - https://leetcode.com/problems/house-robber-ii/
 - [ ] Decode Ways **(Medium)** - https://leetcode.com/problems/decode-ways/
-- [ ] Unique Paths **(Medium)** - https://leetcode.com/problems/unique-paths/
+- [x] Unique Paths **(Medium)** - https://leetcode.com/problems/unique-paths/
 - [ ] Jump Game **(Medium)** - https://leetcode.com/problems/jump-game/
 
 ### Linked List
