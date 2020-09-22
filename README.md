@@ -69,7 +69,7 @@
 
 - [x] Set Matrix Zeroes **(Medium)** - https://leetcode.com/problems/set-matrix-zeroes/
 - [x] Spiral Matrix **(Medium)** - https://leetcode.com/problems/spiral-matrix/
-- [ ] Rotate Image **(Medium)** - https://leetcode.com/problems/rotate-image/
+- [x] Rotate Image **(Medium)** - https://leetcode.com/problems/rotate-image/
 - [ ] Word Search **(Medium)** - https://leetcode.com/problems/word-search/
 
 ### Heap
