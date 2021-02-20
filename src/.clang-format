@@ -1,0 +1,3 @@
+BasedOnStyle: Microsoft
+IndentWidth: 2
+AccessModifierOffset: -2
