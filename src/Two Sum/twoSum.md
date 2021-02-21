@@ -11,7 +11,7 @@ you may not use the same element twice.
 You can return the answer in any order.
 
 
-## Main Idea
+## How to Solve:
 
 Maintain a hash map (`unordered_map` in C++) that at every iteration records the difference between the target and the current number as key, and the current number's index as the value.
 
