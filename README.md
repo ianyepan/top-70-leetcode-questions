@@ -2,7 +2,9 @@
 
 [Reference](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 
-Clicking on the title takes you to the corresponding LeetCode submission page. Clicking on "Answer" takes you to my solution (in C++ code) and a markdown file explaining the thought process.
+Clicking on the question title takes you to the corresponding LeetCode
+submission page. Clicking on "Answer" takes you to my solution (in C++
+code) and a markdown file explaining the thought process.
 
 P.s. Safely ignore the checkboxes. It's for my personal use.
 
@@ -10,7 +12,7 @@ P.s. Safely ignore the checkboxes. It's for my personal use.
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/) **(Easy)** - [Answer](src/Two%20Sum)
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) **(Easy)** - [Answer](src/Best%20Time%20to%20Buy%20and%20Sell%20Stock)
-- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) **(Easy)**
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) **(Easy)** - [Answer](src/Contains%20Duplicate)
 - [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) **(Easy)**
 - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) **(Medium)**
 - [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) **(Medium)**
