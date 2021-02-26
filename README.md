@@ -15,7 +15,7 @@ P.s. Safely ignore the checkboxes. It's for my personal use.
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) **(Easy)** - [Answer](src/Contains%20Duplicate)
 - [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) **(Easy)** - [Answer](src/Maximum%20Subarray)
 - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) **(Medium)** - [Answer](src/Product%20of%20Array%20Except%20Self)
-- [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) **(Medium)**
+- [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) **(Medium)** - [Answer](src/Maximum%20Product%20Subarray)
 - [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) **(Medium)**
 - [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) **(Medium)**
 - [x] [3Sum](https://leetcode.com/problems/3sum/) **(Medium)**
