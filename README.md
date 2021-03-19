@@ -24,7 +24,7 @@ P.s. Safely ignore the checkboxes. It's for my personal use.
 ### String
 
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) **(Easy)** - [Answer](src/Valid%20Anagram)
-- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) **(Easy)**
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) **(Easy)** - [Ansewr](src/Valid%20Parentheses)
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) **(Easy)**
 - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) **(Medium)**
 - [x] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) **(Medium)**
