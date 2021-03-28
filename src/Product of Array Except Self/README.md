@@ -25,7 +25,7 @@ element).
 ### If space is not a concern
 
 If space is not a concern, we may construct a second array `R`, where
-similarly, `R[i]` is the product of all elemtns right of position
+similarly, `R[i]` is the product of all elements right of position
 `i`. After we obtained `L` and `R`, the answer is straightforward: we
 create our final answer array where each element is simply `L[i] *
 R[i]`.
