@@ -36,7 +36,7 @@ P.s. Safely ignore the checkboxes. It's for my personal use.
 ### Dynamic Programming
 
 - [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) **(Easy)** - [Answer](src/Climbing%20Stairs)
-- [x] [House Robber](https://leetcode.com/problems/house-robber/) **(Easy)**
+- [x] [House Robber](https://leetcode.com/problems/house-robber/) **(Easy)** - [Answer](src/House%20Robber)
 - [x] [Coin Change](https://leetcode.com/problems/coin-change/) **(Medium)**
 - [x] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) **(Medium)**
 - [x] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) **(Medium)**
