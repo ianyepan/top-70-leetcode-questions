@@ -1,4 +1,4 @@
-### Hand-picked Top 69 LeetCode Questions
+### Hand-picked Top 70 LeetCode Questions
 
 [Reference](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 
@@ -31,6 +31,7 @@ P.s. Safely ignore the checkboxes. It's for my personal use.
 - [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) **(Medium)**
 - [x] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) **(Medium)**
 - [x] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) **(Medium)**
+- [ ] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) **(Medium)**
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) **(Hard)**
 
 ### Dynamic Programming
