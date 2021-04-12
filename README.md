@@ -50,7 +50,7 @@ P.s. Safely ignore the checkboxes. It's for my personal use.
 
 ### Linked List
 
-- [x] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) **(Easy)**
+- [x] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) **(Easy)** - [Answer](src/Reverse%20a%20Linked%20List)
 - [x] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) **(Easy)**
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) **(Easy)**
 - [x] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) **(Medium)**
