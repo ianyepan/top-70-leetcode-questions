@@ -16,12 +16,12 @@ iteration, we calculate the max possible area bounded by the heights
 at `left` and `right`, which can be calculated as follows:
 
 ```cpp
-cur_area = std::min(heights[left], heights[right]) * (right - left);
+std::min(heights[left], heights[right]) * (right - left);
 ```
 
-We also maintain a variable that keeps track of the max area seen so
-far -- which eventually will be our final answer by the end of the
-while loop.
+We maintain a variable that keeps track of the max area seen so far --
+which eventually will be our final answer by the end of the while
+loop.
 
 Before we move on to the next iteration, we update the position with
 the shorter height, i.e. if `heights[left] < heights[right]`, then
