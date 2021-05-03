@@ -1,17 +1,19 @@
-### Hand-picked Top 70 LeetCode Questions
+## Hand-picked Top 70 LeetCode Questions
 
-[Reference](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+**A Comprehensive Writeup By Ian Y.E. Pan**
+
+Reference site: [Reference](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 
 Clicking on the question title takes you to the corresponding LeetCode
 submission page. Clicking on "Answer" takes you to my solution (in C++
 code) and a markdown file explaining the thought process.
 
-P.s. Safely ignore the green checks. It's for my personal use.
+P.s. Safely ignore the "Status". It's for my personal use.
 
 ### Array
 
-| Practice Status | Question & Submission Link | My C++ Implementation |
-| --------------- | -------------------------- | --------------------- |
+| Status | Question & Submission Link | My C++ Implementation |
+| ------ | -------------------------- | --------------------- |
 |✔| [Two Sum](https://leetcode.com/problems/two-sum/) **(Easy)** | [Answer](src/Two%20Sum) |
 |✔| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) **(Easy)** | [Answer](src/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
 |✔| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) **(Easy)** | [Answer](src/Contains%20Duplicate) |
@@ -25,13 +27,13 @@ P.s. Safely ignore the green checks. It's for my personal use.
 
 ### String
 
-| Practice Status | Question & Submission Link | My C++ Implementation |
-| --------------- | -------------------------- | --------------------- |
+| Status | Question & Submission Link | My C++ Implementation |
+| ------ | -------------------------- | --------------------- |
 |✔| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) **(Easy )** | [Answer](src/Valid%20Anagram) |
 |✔| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) **(Easy )** | [Answer](src/Valid%20Parentheses) |
 |✔| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) **(Easy )** | [Answer](src/Valid%20Palindrome) |
 |✔| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) **(Medium )** | [Answer](src/Longest%20Substring%20Without%20Repeating%20Characters) |
-|✔| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) **(Medium )** | |
+|✔| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) **(Medium )** | Answer |
 |✔| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) **(Medium )** |Answer|
 |✔| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) **(Medium )** |Answer|
 |✔| [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) **(Medium )** |Answer|
@@ -40,8 +42,8 @@ P.s. Safely ignore the green checks. It's for my personal use.
 
 ### Dynamic Programming
 
-| Practice Status | Question & Submission Link | My C++ Implementation |
-| --------------- | -------------------------- | --------------------- |
+| Status | Question & Submission Link | My C++ Implementation |
+| ------ | -------------------------- | --------------------- |
 |✔|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) **(Easy)** | [Answer](src/Climbing%20Stairs)|
 |✔|[House Robber](https://leetcode.com/problems/house-robber/) **(Easy)** | [Answer](src/House%20Robber)|
 |✔|[Coin Change](https://leetcode.com/problems/coin-change/) **(Medium)** |Answer|
@@ -56,8 +58,8 @@ P.s. Safely ignore the green checks. It's for my personal use.
 
 ### Linked List
 
-| Practice Status | Question & Submission Link | My C++ Implementation |
-| --------------- | -------------------------- | --------------------- |
+| Status | Question & Submission Link | My C++ Implementation |
+| ------ | -------------------------- | --------------------- |
 |✔|[Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) **(Easy)** | [Answer](src/Reverse%20a%20Linked%20List)|
 |✔|[Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) **(Easy)** |Answer|
 |✔|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) **(Easy)** |Answer|
@@ -66,54 +68,64 @@ P.s. Safely ignore the green checks. It's for my personal use.
 
 ### Interval
 
-| Practice Status | Question & Submission Link | My C++ Implementation |
-| --------------- | -------------------------- | --------------------- |
+| Status | Question & Submission Link | My C++ Implementation |
+| ------ | -------------------------- | --------------------- |
 |✔|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) **(Medium)** |Answer|
 |✔|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) **(Medium)** |Answer|
 |❌|[Insert Interval](https://leetcode.com/problems/insert-interval/) **(Hard)** |Answer|
 
 ### Matrix
 
-- [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) **(Medium)**
-- [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) **(Medium)**
-- [x] [Rotate Image](https://leetcode.com/problems/rotate-image/) **(Medium)**
-- [ ] [Word Search](https://leetcode.com/problems/word-search/) **(Medium)**
+| Status | Question & Submission Link | My C++ Implementation |
+| ------ | -------------------------- | --------------------- |
+|✔|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) **(Medium)** | Answer |
+|✔|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) **(Medium)** | Answer |
+|✔|[Rotate Image](https://leetcode.com/problems/rotate-image/) **(Medium)** | Answer |
+|❌|[Word Search](https://leetcode.com/problems/word-search/) **(Medium)** | Answer |
 
 ### Heap
 
-- [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) **(Medium)**
-- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) **(Hard)**
-- [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) **(Hard)**
+| Status | Question & Submission Link | My C++ Implementation |
+| ------ | -------------------------- | --------------------- |
+|✔|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) **(Medium)** | Answer |
+|❌|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) **(Hard)** | Answer |
+|❌|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) **(Hard)** | Answer |
 
 ### Tree
 
-- [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) **(Easy)**
-- [x] [Same Tree](https://leetcode.com/problems/same-tree/) **(Easy)**
-- [x] [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) **(Easy)**
-- [x] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) **(Easy)**
-- [x] [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) **(Easy)**
-- [x] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) **(Medium)**
-- [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) **(Medium)**
-- [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) **(Medium)**
-- [x] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) **(Medium)**
-- [ ] [Implement Trie, i.e. Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) **(Medium)**
-- [ ] [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/) **(Medium)**
-- [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) **(Hard)**
-- [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) **(Hard)**
-- [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/) **(Hard)**
+| Status | Question & Submission Link | My C++ Implementation |
+| ------ | -------------------------- | --------------------- |
+|✔|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) **(Easy)** | Answer |
+|✔|[Same Tree](https://leetcode.com/problems/same-tree/) **(Easy)** | Answer |
+|✔|[Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) **(Easy)** | Answer |
+|✔|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) **(Easy)** | Answer |
+|✔|[Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) **(Easy)** | Answer |
+|✔|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) **(Medium)** | Answer |
+|❌|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) **(Medium)** | Answer |
+|✔|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) **(Medium)** | Answer |
+|✔|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) **(Medium)** | Answer |
+|❌|[Implement Trie, i.e. Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) **(Medium)** | Answer |
+|❌|[Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/) **(Medium)** | Answer |
+|❌|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) **(Hard)** | Answer |
+|❌|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) **(Hard)** | Answer |
+|❌|[Word Search II](https://leetcode.com/problems/word-search-ii/) **(Hard)** | Answer |
 
 ### Graph
 
-- [x] [Number of Islands](https://leetcode.com/problems/number-of-islands/) **(Medium)**
-- [ ] [Clone Graph](https://leetcode.com/problems/clone-graph/) **(Medium)**
-- [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/) **(Medium)**
-- [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) **(Medium)**
-- [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) **(Hard)**
+| Status | Question & Submission Link | My C++ Implementation |
+| ------ | -------------------------- | --------------------- |
+|✔|[Number of Islands](https://leetcode.com/problems/number-of-islands/) **(Medium)** | Answer |
+|❌|[Clone Graph](https://leetcode.com/problems/clone-graph/) **(Medium)** | Answer |
+|❌|[Course Schedule](https://leetcode.com/problems/course-schedule/) **(Medium)** | Answer |
+|❌|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) **(Medium)** | Answer |
+|❌|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) **(Hard)** | Answer |
 
 ### Binary
 
-- [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) **(Easy)**
-- [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) **(Easy)**
-- [x] [Missing Number](https://leetcode.com/problems/missing-number/) **(Easy)**
-- [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/) **(Easy)**
-- [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/) **(Medium)**
+| Status | Question & Submission Link | My C++ Implementation |
+| ------ | -------------------------- | --------------------- |
+|❌|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) **(Easy)** | Answer |
+|❌|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) **(Easy)** | Answer |
+|✔|[Missing Number](https://leetcode.com/problems/missing-number/) **(Easy)** | Answer |
+|❌|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) **(Easy)** | Answer |
+|❌|[Counting Bits](https://leetcode.com/problems/counting-bits/) **(Medium)** | Answer |
