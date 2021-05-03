@@ -1,8 +1,15 @@
 ## Hand-picked Top 70 LeetCode Questions
 
-**A Comprehensive Writeup By Ian Y.E. Pan**
+**A Comprehensive C++ Writeup By Ian Y.E. Pan**
 
-Reference site: [Reference](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+<p align="center">
+  <img src="img/cpp-logo.png" width="100"/>
+</p>
+
+<br/>
+<br/>
+
+Reference list by a Facebook tech lead: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 
 Clicking on the question title takes you to the corresponding LeetCode
 submission page. Clicking on "Answer" takes you to my solution (in C++
