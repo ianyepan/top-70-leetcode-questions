@@ -21,7 +21,7 @@ P.s. Safely ignore the green checks. It's for my personal use.
 |✔| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) **(Medium)** | [Answer](src/Find%20Minimum%20in%20Rotated%20Sorted%20Array) |
 |✔| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) **(Medium)** | [Answer](src/Search%20in%20Rotated%20Sorted%20Array) |
 |✔| [3Sum](https://leetcode.com/problems/3sum/) **(Medium)** | [Answer](src/3Sum/) |
-|✔| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) **(Medium)** |
+|✔| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) **(Medium)** |Answer|
 
 ### String
 
@@ -32,39 +32,45 @@ P.s. Safely ignore the green checks. It's for my personal use.
 |✔| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) **(Easy )** | [Answer](src/Valid%20Palindrome) |
 |✔| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) **(Medium )** | [Answer](src/Longest%20Substring%20Without%20Repeating%20Characters) |
 |✔| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) **(Medium )** | |
-|✔| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) **(Medium )** | |
-|✔| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) **(Medium )** ||
-|✔| [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) **(Medium )** ||
-|❌| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) **(Medium )** ||
-|❌| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) **(Hard )** ||
+|✔| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) **(Medium )** |Answer|
+|✔| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) **(Medium )** |Answer|
+|✔| [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) **(Medium )** |Answer|
+|❌| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) **(Medium )** |Answer|
+|❌| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) **(Hard )** |Answer|
 
 ### Dynamic Programming
 
-- [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) **(Easy)** - [Answer](src/Climbing%20Stairs)
-- [x] [House Robber](https://leetcode.com/problems/house-robber/) **(Easy)** - [Answer](src/House%20Robber)
-- [x] [Coin Change](https://leetcode.com/problems/coin-change/) **(Medium)**
-- [x] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) **(Medium)**
-- [x] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) **(Medium)**
-- [x] [Word Break](https://leetcode.com/problems/word-break/) **(Medium)**
-- [ ] [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) **(Medium)**
-- [x] [House Robber II](https://leetcode.com/problems/house-robber-ii/) **(Medium)**
-- [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/) **(Medium)**
-- [x] [Unique Paths](https://leetcode.com/problems/unique-paths/) **(Medium)**
-- [ ] [Jump Game](https://leetcode.com/problems/jump-game/) **(Medium)**
+| Practice Status | Question & Submission Link | My C++ Implementation |
+| --------------- | -------------------------- | --------------------- |
+|✔|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) **(Easy)** | [Answer](src/Climbing%20Stairs)|
+|✔|[House Robber](https://leetcode.com/problems/house-robber/) **(Easy)** | [Answer](src/House%20Robber)|
+|✔|[Coin Change](https://leetcode.com/problems/coin-change/) **(Medium)** |Answer|
+|✔|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) **(Medium)** |Answer|
+|✔|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) **(Medium)** |Answer|
+|✔|[Word Break](https://leetcode.com/problems/word-break/) **(Medium)** |Answer|
+|❌| [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) **(Medium)** |Answer|
+|✔|[House Robber II](https://leetcode.com/problems/house-robber-ii/) **(Medium)** |Answer|
+|❌| [Decode Ways](https://leetcode.com/problems/decode-ways/) **(Medium)** |Answer|
+|✔|[Unique Paths](https://leetcode.com/problems/unique-paths/) **(Medium)** |Answer|
+|❌| [Jump Game](https://leetcode.com/problems/jump-game/) **(Medium)** |Answer|
 
 ### Linked List
 
-- [x] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) **(Easy)** - [Answer](src/Reverse%20a%20Linked%20List)
-- [x] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) **(Easy)**
-- [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) **(Easy)**
-- [x] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) **(Medium)**
-- [x] [Reorder List](https://leetcode.com/problems/reorder-list/) **(Medium)**
+| Practice Status | Question & Submission Link | My C++ Implementation |
+| --------------- | -------------------------- | --------------------- |
+|✔|[Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) **(Easy)** | [Answer](src/Reverse%20a%20Linked%20List)|
+|✔|[Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) **(Easy)** |Answer|
+|✔|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) **(Easy)** |Answer|
+|✔|[Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) **(Medium)** |Answer|
+|✔|[Reorder List](https://leetcode.com/problems/reorder-list/) **(Medium)** |Answer|
 
 ### Interval
 
-- [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/) **(Medium)**
-- [x] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) **(Medium)**
-- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/) **(Hard)**
+| Practice Status | Question & Submission Link | My C++ Implementation |
+| --------------- | -------------------------- | --------------------- |
+|✔|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) **(Medium)** |Answer|
+|✔|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) **(Medium)** |Answer|
+|❌|[Insert Interval](https://leetcode.com/problems/insert-interval/) **(Hard)** |Answer|
 
 ### Matrix
 
