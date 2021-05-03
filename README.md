@@ -6,33 +6,37 @@ Clicking on the question title takes you to the corresponding LeetCode
 submission page. Clicking on "Answer" takes you to my solution (in C++
 code) and a markdown file explaining the thought process.
 
-P.s. Safely ignore the checkboxes. It's for my personal use.
+P.s. Safely ignore the green checks. It's for my personal use.
 
 ### Array
 
-- [x] [Two Sum](https://leetcode.com/problems/two-sum/) **(Easy)** - [Answer](src/Two%20Sum)
-- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) **(Easy)** - [Answer](src/Best%20Time%20to%20Buy%20and%20Sell%20Stock)
-- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) **(Easy)** - [Answer](src/Contains%20Duplicate)
-- [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) **(Easy)** - [Answer](src/Maximum%20Subarray)
-- [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) **(Medium)** - [Answer](src/Product%20of%20Array%20Except%20Self)
-- [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) **(Medium)** - [Answer](src/Maximum%20Product%20Subarray)
-- [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) **(Medium)** - [Answer](src/Find%20Minimum%20in%20Rotated%20Sorted%20Array)
-- [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) **(Medium)** - [Answer](src/Search%20in%20Rotated%20Sorted%20Array)
-- [x] [3Sum](https://leetcode.com/problems/3sum/) **(Medium)** - [Answer](src/3Sum/)
-- [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) **(Medium)**
+| Practice Status | Question & Submission Link | My C++ Implementation |
+| --------------- | -------------------------- | --------------------- |
+|✔| [Two Sum](https://leetcode.com/problems/two-sum/) **(Easy)** | [Answer](src/Two%20Sum) |
+|✔| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) **(Easy)** | [Answer](src/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
+|✔| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) **(Easy)** | [Answer](src/Contains%20Duplicate) |
+|✔| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) **(Easy)** | [Answer](src/Maximum%20Subarray) |
+|✔| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) **(Medium)** | [Answer](src/Product%20of%20Array%20Except%20Self) |
+|✔| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) **(Medium)** | [Answer](src/Maximum%20Product%20Subarray) |
+|✔| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) **(Medium)** | [Answer](src/Find%20Minimum%20in%20Rotated%20Sorted%20Array) |
+|✔| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) **(Medium)** | [Answer](src/Search%20in%20Rotated%20Sorted%20Array) |
+|✔| [3Sum](https://leetcode.com/problems/3sum/) **(Medium)** | [Answer](src/3Sum/) |
+|✔| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) **(Medium)** |
 
 ### String
 
-- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) **(Easy)** - [Answer](src/Valid%20Anagram)
-- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) **(Easy)** - [Answer](src/Valid%20Parentheses)
-- [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) **(Easy)** - [Answer](src/Valid%20Palindrome)
-- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) **(Medium)** - [Answer](src/Longest%20Substring%20Without%20Repeating%20Characters)
-- [x] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) **(Medium)**
-- [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) **(Medium)**
-- [x] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) **(Medium)**
-- [x] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) **(Medium)**
-- [ ] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) **(Medium)**
-- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) **(Hard)**
+| Practice Status | Question & Submission Link | My C++ Implementation |
+| --------------- | -------------------------- | --------------------- |
+|✔| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) **(Easy)** - [Answer](src/Valid%20Anagram)
+|✔| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) **(Easy)** - [Answer](src/Valid%20Parentheses)
+|✔| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) **(Easy)** - [Answer](src/Valid%20Palindrome)
+|✔| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) **(Medium)** - [Answer](src/Longest%20Substring%20Without%20Repeating%20Characters)
+|✔| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) **(Medium)**
+|✔| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) **(Medium)**
+|✔| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) **(Medium)**
+|✔| [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) **(Medium)**
+|❌| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) **(Medium)**
+|❌| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) **(Hard)**
 
 ### Dynamic Programming
 
