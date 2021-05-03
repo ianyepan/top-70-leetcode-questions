@@ -18,7 +18,7 @@ P.s. Safely ignore the checkboxes. It's for my personal use.
 - [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) **(Medium)** - [Answer](src/Maximum%20Product%20Subarray)
 - [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) **(Medium)** - [Answer](src/Find%20Minimum%20in%20Rotated%20Sorted%20Array)
 - [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) **(Medium)** - [Answer](src/Search%20in%20Rotated%20Sorted%20Array)
-- [x] [3Sum](https://leetcode.com/problems/3sum/) **(Medium)**
+- [x] [3Sum](https://leetcode.com/problems/3sum/) **(Medium)** - [Answer](src/3Sum/)
 - [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) **(Medium)**
 
 ### String
