@@ -27,16 +27,16 @@ P.s. Safely ignore the green checks. It's for my personal use.
 
 | Practice Status | Question & Submission Link | My C++ Implementation |
 | --------------- | -------------------------- | --------------------- |
-|✔| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) **(Easy)** - [Answer](src/Valid%20Anagram)
-|✔| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) **(Easy)** - [Answer](src/Valid%20Parentheses)
-|✔| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) **(Easy)** - [Answer](src/Valid%20Palindrome)
-|✔| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) **(Medium)** - [Answer](src/Longest%20Substring%20Without%20Repeating%20Characters)
-|✔| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) **(Medium)**
-|✔| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) **(Medium)**
-|✔| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) **(Medium)**
-|✔| [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) **(Medium)**
-|❌| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) **(Medium)**
-|❌| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) **(Hard)**
+|✔| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) **(Easy )** | [Answer](src/Valid%20Anagram) |
+|✔| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) **(Easy )** | [Answer](src/Valid%20Parentheses) |
+|✔| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) **(Easy )** | [Answer](src/Valid%20Palindrome) |
+|✔| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) **(Medium )** | [Answer](src/Longest%20Substring%20Without%20Repeating%20Characters) |
+|✔| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) **(Medium )** | |
+|✔| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) **(Medium )** | |
+|✔| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) **(Medium )** ||
+|✔| [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) **(Medium )** ||
+|❌| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) **(Medium )** ||
+|❌| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) **(Hard )** ||
 
 ### Dynamic Programming
 
