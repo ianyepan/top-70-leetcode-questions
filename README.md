@@ -1,21 +1,15 @@
-## Hand-picked Top 70 LeetCode Questions
-
-**A Comprehensive C++ Writeup By Ian Y.E. Pan**
-
-
 <div align="center">
  <h2>Hand-picked Top 70 LeetCode Questions</h2>
- <h4>A Comprehensive C++ Writeup By Ian Y.E. Pan</h4>
+ <h5>A Comprehensive C++ Writeup By Ian Y.E. Pan</h5>
 </div>
 
-<hr>
 <br/>
 
 <p align="center">
   <img src="img/cpp-logo.png" width="100"/>
 </p>
-<br/>
 
+<hr>
 
 The following curated list is ordered by topics. Clicking on the
 **question title** takes you to the corresponding LeetCode submission
