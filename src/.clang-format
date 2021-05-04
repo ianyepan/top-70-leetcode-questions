@@ -1,3 +1,4 @@
 BasedOnStyle: Microsoft
 IndentWidth: 2
+ContinuationIndentWidth: 2
 AccessModifierOffset: -2
