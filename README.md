@@ -1,6 +1,6 @@
 <div align="center">
  <h2>Hand-picked Top 70 LeetCode Questions</h2>
- <h5>A Comprehensive C++ Writeup By Ian Y.E. Pan</h5>
+ <h5>A (WIP) Comprehensive C++ Writeup By Ian Y.E. Pan</h5>
 </div>
 
 <br/>
