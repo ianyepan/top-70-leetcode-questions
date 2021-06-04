@@ -1,4 +1,5 @@
 #include <algorithm>
+#include <iterator>
 #include <string>
 #include <unordered_map>
 
@@ -9,20 +10,20 @@ public:
   {
     int n = (int)s.length();
     std::unordered_map<char, int> count; // character frequencies in the sliding window
-    int max_length = 0;                  // longest consecutive substring (after operations) so far
-    int max_count = 0;                   // most frequent char occurence in the sliding window
+    int max_length = 0;       // longest consecutive substring so far (after operations). Eventually our answer.
+    int most_freq_letter = 0; // most frequent char in the sliding window
 
-    // j: sliding window start, i: sliding window end
-    for (int j = 0, i = 0; i < n; ++i) // 'i' loops through the string normally
+    int start = 0;
+    for (int end = 0; end < n; ++end) // 'end' loops through the string normally
     {
-      ++count[s[i]];                                // update current char count
-      max_count = std::max(max_count, count[s[i]]); // whether current char has higher freq
-      while (i - j + 1 - max_count > k)             // compare no. of operations we must do with k
+      ++count[s[end]];                                              // update current char count
+      most_freq_letter = std::max(most_freq_letter, count[s[end]]); // whether current char has higher freq
+      if ((end - start + 1) - most_freq_letter > k)                 // compare "no. of operations we must do" with k
       {
-        --count[s[j]]; // decrease s[j]'s freq because we're going to shrink
-        ++j;           // shrink window on the left
+        --count[s[start]]; // decrease s[start]'s freq because we're about to shrink
+        ++start;           // shrink window on the left
       }
-      max_length = std::max(max_length, i - j + 1);
+      max_length = std::max(max_length, end - start + 1);
     }
     return max_length;
   }
