@@ -41,7 +41,7 @@ P.s. Safely ignore the "Status". It's for my personal use.
 |✔| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) **(Easy )** | [Answer](src/Valid%20Parentheses) |
 |✔| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) **(Easy )** | [Answer](src/Valid%20Palindrome) |
 |✔| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) **(Medium )** | [Answer](src/Longest%20Substring%20Without%20Repeating%20Characters) |
-|✔| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) **(Medium )** | Answer WIP |
+|✔| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) **(Medium )** | [Answer](src/Longest%20Repeating%20Character%20Replacement) |
 |✔| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) **(Medium )** |Answer|
 |✔| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) **(Medium )** |Answer|
 |✔| [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) **(Medium )** |Answer|

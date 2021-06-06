@@ -18,7 +18,7 @@ public:
     {
       ++count[s[end]];                                              // update current char count
       most_freq_letter = std::max(most_freq_letter, count[s[end]]); // whether current char has higher freq
-      if ((end - start + 1) - most_freq_letter > k)                 // compare "no. of operations we must do" with k
+      if ((end - start + 1) - most_freq_letter > k)                 // compare "no. of operations we must do", with k
       {
         --count[s[start]]; // decrease s[start]'s freq because we're about to shrink
         ++start;           // shrink window on the left
