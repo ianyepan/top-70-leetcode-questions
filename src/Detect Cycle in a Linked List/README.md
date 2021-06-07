@@ -27,6 +27,8 @@ pointer will catch up with the slow pointer (from behind). Why?
 Because in terms of "relative velocity", the fast pointer is simply
 approaching the slow pointer one node at a time.
 
+The code for this method is in `hasCycle.cpp`.
+
 ### Method 2
 
 The second solution is slightly slower and uses more space. However,
