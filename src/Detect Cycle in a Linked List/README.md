@@ -29,7 +29,7 @@ approaching the slow pointer one node at a time.
 
 ### Method 2
 
-The second solution is slight slower and uses more space. However,
+The second solution is slightly slower and uses more space. However,
 it's more straightforward.
 
 We maintain a set of pointers that we've seen so far. Before we reach
