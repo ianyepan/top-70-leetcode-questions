@@ -54,7 +54,7 @@ P.s. Safely ignore the "Status". It's for my personal use.
 | ------ | -------------------------- | --------------------- |
 |✔|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) **(Easy)** | [Answer](src/Climbing%20Stairs)|
 |✔|[House Robber](https://leetcode.com/problems/house-robber/) **(Easy)** | [Answer](src/House%20Robber)|
-|✔|[Coin Change](https://leetcode.com/problems/coin-change/) **(Medium)** |Answer|
+|✔|[Coin Change](https://leetcode.com/problems/coin-change/) **(Medium)** | [Answer](src/Coin&20Change)|
 |✔|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) **(Medium)** |Answer|
 |✔|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) **(Medium)** |Answer|
 |✔|[Word Break](https://leetcode.com/problems/word-break/) **(Medium)** |Answer|
