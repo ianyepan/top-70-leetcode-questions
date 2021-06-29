@@ -43,8 +43,8 @@ P.s. Safely ignore the "Status". It's for my personal use.
 |✔| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) **(Medium )** | [Answer](src/Longest%20Substring%20Without%20Repeating%20Characters) |
 |✔| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) **(Medium )** | [Answer](src/Longest%20Repeating%20Character%20Replacement) |
 |✔| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) **(Medium )** | [Answer](src/Group%20Anagrams) |
-|✔| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) **(Medium )** | [Answer](Longest%20Palindromic%20Substring) |
-|✔| [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) **(Medium )** | [Answer](Palindromic%20Substrings) |
+|✔| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) **(Medium )** | [Answer](src/Longest%20Palindromic%20Substring) |
+|✔| [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) **(Medium )** | [Answer](src/Palindromic%20Substrings) |
 |❌| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) **(Medium )** |Answer|
 |❌| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) **(Hard )** |Answer|
 
