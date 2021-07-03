@@ -14,9 +14,9 @@ public:
     }
     answer.push_back("");
 
+    std::vector<std::string> buffer;
     for (const char &digit : digits)
     {
-      std::vector<std::string> buffer;
       for (const char &letter : mappings[digit])
       {
         for (const std::string &s : answer)
@@ -25,6 +25,7 @@ public:
         }
       }
       answer.swap(buffer); // overwrite answer with 'buffer'
+      buffer.clear();
     }
     return answer;
   }
