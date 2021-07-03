@@ -45,7 +45,7 @@ P.s. Safely ignore the "Status". It's for my personal use.
 |✔| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) **(Medium )** | [Answer](src/Group%20Anagrams) |
 |✔| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) **(Medium )** | [Answer](src/Longest%20Palindromic%20Substring) |
 |✔| [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) **(Medium )** | [Answer](src/Palindromic%20Substrings) |
-|❌| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) **(Medium )** |Answer|
+|✔| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) **(Medium )** |[Answer](Letter%20Combinations%20of%20a%20Phone%20Number)|
 |❌| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) **(Hard )** |Answer|
 
 ### Dynamic Programming
