@@ -15,7 +15,12 @@ figure.
 
 The main body of the function is a triple-for-loop. [This discussion
 thread](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/8090/Iterative-c%2B%2B-solution-in-0ms)
-sums the idea up really well.
+sums the idea up really well. In particular, we maintain constant
+unordered_map that stores the mapping of each number to the possible
+letters. We also update the answer using an extra space `buffer`,
+instead of modifying the answer vector in every minor
+iteration. Updating a bigger chunk at once with the help of `buffer`
+is more efficient and makes the code more readable.
 
 The method is best understood by and example. Copy-pasting directly
 from the discussion thread, here's an intuitive example:
