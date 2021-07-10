@@ -21,7 +21,7 @@ when the carry equals 0.
 `x` holds the running answer, and `y` holds the carry at each
 iteration, after it's been left-shifted.
 
-[Reference:
+[Reference 1:
 GeeksForGeeks](https://www.geeksforgeeks.org/add-two-numbers-without-using-arithmetic-operators/)
 
 [Reference 2: Back to Back SWE](https://www.youtube.com/watch?v=qq64FrA2UXQ)
