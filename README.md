@@ -78,7 +78,7 @@ P.s. Safely ignore the "Status". It's for my personal use.
 
 | Status | Question & Submission Link | My C++ Implementation |
 | ------ | -------------------------- | --------------------- |
-|✔|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) **(Medium)** |Answer|
+|✔|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) **(Medium)** |[Answer](src/Merge%20Intervals)|
 |✔|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) **(Medium)** |Answer|
 |❌|[Insert Interval](https://leetcode.com/problems/insert-interval/) **(Hard)** |Answer|
 
