@@ -56,7 +56,7 @@ P.s. Safely ignore the "Status". It's for my personal use.
 |✔|[House Robber](https://leetcode.com/problems/house-robber/) **(Easy)** | [Answer](src/House%20Robber)|
 |✔|[Coin Change](https://leetcode.com/problems/coin-change/) **(Medium)** | [Answer](src/Coin&20Change)|
 |✔|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) **(Medium)** |[Answer](src/Longest%20Increasing%20Subsequence)|
-|✔|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) **(Medium)** |Answer|
+|✔|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) **(Medium)** |[Answer](src/Longest%20Common%20Subsequence)|
 |✔|[Word Break](https://leetcode.com/problems/word-break/) **(Medium)** |Answer|
 |❌| [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) **(Medium)** |Answer|
 |✔|[House Robber II](https://leetcode.com/problems/house-robber-ii/) **(Medium)** |Answer|
