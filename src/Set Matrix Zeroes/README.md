@@ -9,7 +9,7 @@ We use the leftmost column and the top row as temporary indicators of
 whether the pointing row/column should be ultimately marked with
 zeroes.
 
-- Whether the leftmost column should itself be marked with zeroes is
+- Whether the leftmost column itself should be marked with zeroes is
   done as such:
 
     - We first maintain a variable to indicate whether the leftmost
@@ -17,7 +17,7 @@ zeroes.
     contains zeroes), but only actually mark them in the end (because we
     don't want the leftmost column to be tainted with zeroes.
 
-- Whether the top row should itself be marked with zeroes is done as
+- Whether the top row itself should be marked with zeroes is done as
   such:
 
   - We treat the top row as a normal part of the matrix, and
