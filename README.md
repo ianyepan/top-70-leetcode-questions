@@ -62,7 +62,7 @@ P.s. Safely ignore the "Status". It's for my personal use.
 |✔|[House Robber II](https://leetcode.com/problems/house-robber-ii/) **(Medium)** |Answer|
 |❌| [Decode Ways](https://leetcode.com/problems/decode-ways/) **(Medium)** |Answer|
 |✔|[Unique Paths](https://leetcode.com/problems/unique-paths/) **(Medium)** |Answer|
-|❌| [Jump Game](https://leetcode.com/problems/jump-game/) **(Medium)** |Answer|
+|✔| [Jump Game](https://leetcode.com/problems/jump-game/) **(Medium)** |[Answer](src/Jump%20Game)|
 
 ### Linked List
 
