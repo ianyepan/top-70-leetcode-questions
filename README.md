@@ -60,7 +60,7 @@ P.s. Safely ignore the "Status". It's for my personal use.
 |✔|[Word Break](https://leetcode.com/problems/word-break/) **(Medium)** |Answer|
 |❌| [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) **(Medium)** |Answer|
 |✔|[House Robber II](https://leetcode.com/problems/house-robber-ii/) **(Medium)** |Answer|
-|❌| [Decode Ways](https://leetcode.com/problems/decode-ways/) **(Medium)** |Answer|
+|✔| [Decode Ways](https://leetcode.com/problems/decode-ways/) **(Medium)** |Answer|
 |✔|[Unique Paths](https://leetcode.com/problems/unique-paths/) **(Medium)** |[Answer](src/Unique%20Paths)|
 |✔| [Jump Game](https://leetcode.com/problems/jump-game/) **(Medium)** |[Answer](src/Jump%20Game)|
 
