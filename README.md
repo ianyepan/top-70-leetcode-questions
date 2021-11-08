@@ -109,7 +109,7 @@ P.s. Safely ignore the "Status". It's for my personal use.
 |✔|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) **(Easy)** | Answer |
 |✔|[Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) **(Easy)** | Answer |
 |✔|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) **(Medium)** | Answer |
-|❌|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) **(Medium)** | Answer |
+|✔|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) **(Medium)** | Answer |
 |✔|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) **(Medium)** | Answer |
 |✔|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) **(Medium)** | Answer |
 |❌|[Implement Trie, i.e. Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) **(Medium)** | Answer |
