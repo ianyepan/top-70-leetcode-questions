@@ -112,7 +112,7 @@ P.s. Safely ignore the "Status". It's for my personal use.
 |✔|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) **(Medium)** | Answer |
 |✔|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) **(Medium)** | Answer |
 |✔|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) **(Medium)** | Answer |
-|❌|[Implement Trie, i.e. Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) **(Medium)** | Answer |
+|✔|[Implement Trie, i.e. Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) **(Medium)** | Answer |
 |❌|[Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/) **(Medium)** | Answer |
 |❌|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) **(Hard)** | Answer |
 |❌|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) **(Hard)** | Answer |
