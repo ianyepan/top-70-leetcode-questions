@@ -1,4 +1,7 @@
-BasedOnStyle: Microsoft
+BasedOnStyle: Google
 IndentWidth: 2
 ContinuationIndentWidth: 2
-AccessModifierOffset: -2
+ColumnLimit: 120
+DerivePointerAlignment: false
+PointerAlignment: Right
+AllowShortFunctionsOnASingleLine: false

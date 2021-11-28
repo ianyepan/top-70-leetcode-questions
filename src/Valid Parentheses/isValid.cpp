@@ -2,23 +2,16 @@
 #include <string>
 #include <unordered_map>
 
-class Solution
-{
-public:
-  bool isValid(string s)
-  {
+class Solution {
+ public:
+  bool isValid(string s) {
     stack<char> stk;
     unordered_map<char, char> m{{'}', '{'}, {']', '['}, {')', '('}};
-    for (const auto &ch : s)
-    {
-      if (is_opening(ch))
-      {
+    for (const auto &ch : s) {
+      if (is_opening(ch)) {
         stk.push(ch);
-      }
-      else
-      {
-        if (stk.empty() || stk.top() != m[ch])
-        {
+      } else {
+        if (stk.empty() || stk.top() != m[ch]) {
           return false;
         }
         stk.pop();
@@ -27,9 +20,8 @@ public:
     return stk.empty();
   }
 
-private:
-  bool is_opening(char ch)
-  {
+ private:
+  bool is_opening(char ch) {
     return ch == '{' || ch == '(' || ch == '[';
   }
 };
