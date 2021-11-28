@@ -1,6 +1,3 @@
-#include <algorithm>
-#include <vector>
-
 class Solution {
  public:
   int lengthOfLIS(vector<int> &nums) {

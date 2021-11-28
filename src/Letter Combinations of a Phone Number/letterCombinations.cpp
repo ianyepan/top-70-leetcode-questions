@@ -1,7 +1,3 @@
-#include <string>
-#include <unordered_map>
-#include <vector>
-
 class Solution {
  public:
   vector<string> letterCombinations(string digits) {
