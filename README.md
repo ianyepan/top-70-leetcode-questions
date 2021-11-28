@@ -53,13 +53,13 @@ P.s. Safely ignore the "Status". It's for my personal use.
 | Status | Question & Submission Link | My C++ Implementation |
 | ------ | -------------------------- | --------------------- |
 |✔|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) **(Easy)** | [Answer](src/Climbing%20Stairs)|
-|✔|[House Robber](https://leetcode.com/problems/house-robber/) **(Easy)** | [Answer](src/House%20Robber)|
+|✔|[House Robber](https://leetcode.com/problems/house-robber/) **(Medium)** | [Answer](src/House%20Robber)|
 |✔|[Coin Change](https://leetcode.com/problems/coin-change/) **(Medium)** | [Answer](src/Coin&20Change)|
 |✔|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) **(Medium)** |[Answer](src/Longest%20Increasing%20Subsequence)|
 |✔|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) **(Medium)** |[Answer](src/Longest%20Common%20Subsequence)|
 |✔|[Word Break](https://leetcode.com/problems/word-break/) **(Medium)** |[Answer](src/Word%20Break)|
 |✔| [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) **(Medium)** |[Answer](src/Combination%20Sum%20IV)|
-|✔|[House Robber II](https://leetcode.com/problems/house-robber-ii/) **(Medium)** |Answer|
+|✔|[House Robber II](https://leetcode.com/problems/house-robber-ii/) **(Medium)** |[Answer](src/House%20Robber%20II)|
 |✔| [Decode Ways](https://leetcode.com/problems/decode-ways/) **(Medium)** |Answer|
 |✔|[Unique Paths](https://leetcode.com/problems/unique-paths/) **(Medium)** |[Answer](src/Unique%20Paths)|
 |✔| [Jump Game](https://leetcode.com/problems/jump-game/) **(Medium)** |[Answer](src/Jump%20Game)|
