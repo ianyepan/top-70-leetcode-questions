@@ -5,10 +5,10 @@
 class Solution
 {
 public:
-  bool isValid(std::string s)
+  bool isValid(string s)
   {
-    std::stack<char> stk;
-    std::unordered_map<char, char> m{{'}', '{'}, {']', '['}, {')', '('}};
+    stack<char> stk;
+    unordered_map<char, char> m{{'}', '{'}, {']', '['}, {')', '('}};
     for (const auto &ch : s)
     {
       if (is_opening(ch))

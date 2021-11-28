@@ -16,7 +16,7 @@ iteration, we calculate the max possible area bounded by the heights
 at `left` and `right`, which can be calculated as follows:
 
 ```cpp
-std::min(heights[left], heights[right]) * (right - left);
+min(heights[left], heights[right]) * (right - left);
 ```
 
 We maintain a variable that keeps track of the max area seen so far --

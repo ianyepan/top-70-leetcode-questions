@@ -24,7 +24,7 @@ possible profit is exceeded and thus needs to be updated. Hence, the
 way to calculate `curr_max_profit` at every iteration is:
 
 ```cpp
-curr_max_profit = std::max(curr_max_profit, prices[i] - curr_min);
+curr_max_profit = max(curr_max_profit, prices[i] - curr_min);
 ```
 
 Without loss of generality, we may initialize `curr_min` to be

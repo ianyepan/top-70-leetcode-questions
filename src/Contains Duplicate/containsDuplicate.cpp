@@ -4,9 +4,9 @@
 class Solution
 {
 public:
-  bool containsDuplicate(std::vector<int> &nums)
+  bool containsDuplicate(vector<int> &nums)
   {
-    std::unordered_set<int> s(nums.begin(), nums.end());
+    unordered_set<int> s(nums.begin(), nums.end());
     return nums.size() > s.size();
   }
 };

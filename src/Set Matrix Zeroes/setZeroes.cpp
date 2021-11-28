@@ -3,7 +3,7 @@
 class Solution
 {
 public:
-  void setZeroes(std::vector<std::vector<int>> &mat)
+  void setZeroes(vector<vector<int>> &mat)
   {
     int n = mat.size(), m = mat[0].size();
     bool v = false; // whether leftmost col should be zeroes

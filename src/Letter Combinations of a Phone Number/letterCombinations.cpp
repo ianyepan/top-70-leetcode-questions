@@ -5,21 +5,21 @@
 class Solution
 {
 public:
-  std::vector<std::string> letterCombinations(std::string digits)
+  vector<string> letterCombinations(string digits)
   {
-    std::vector<std::string> answer;
+    vector<string> answer;
     if (digits.empty())
     {
       return answer;
     }
     answer.push_back("");
 
-    std::vector<std::string> buffer;
+    vector<string> buffer;
     for (const char &digit : digits)
     {
       for (const char &letter : mappings[digit])
       {
-        for (const std::string &s : answer)
+        for (const string &s : answer)
         {
           buffer.push_back(s + letter);
         }
@@ -31,6 +31,6 @@ public:
   }
 
 private:
-  std::unordered_map<char, std::string> mappings = {{'2', "abc"}, {'3', "def"},  {'4', "ghi"}, {'5', "jkl"},
+  unordered_map<char, string> mappings = {{'2', "abc"}, {'3', "def"},  {'4', "ghi"}, {'5', "jkl"},
                                                     {'6', "mno"}, {'7', "pqrs"}, {'8', "tuv"}, {'9', "wxyz"}};
 };

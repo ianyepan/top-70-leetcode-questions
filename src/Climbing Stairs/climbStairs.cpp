@@ -18,5 +18,5 @@ public:
   }
 
 private:
-  std::unordered_map<int, int> seen;
+  unordered_map<int, int> seen;
 };

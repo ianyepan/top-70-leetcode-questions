@@ -4,9 +4,9 @@
 class Solution
 {
 public:
-  bool isPalindrome(std::string s)
+  bool isPalindrome(string s)
   {
-    std::string new_str;
+    string new_str;
     for (const auto &ch : s)
     {
       if (isalnum(ch))

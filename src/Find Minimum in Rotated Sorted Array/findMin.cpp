@@ -3,7 +3,7 @@
 class Solution
 {
 public:
-  int findMin(const std::vector<int> &nums)
+  int findMin(const vector<int> &nums)
   {
     int n = (int)nums.size();
 

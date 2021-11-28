@@ -24,7 +24,7 @@ array `nums`, at each iteration using the current number as the
 subsequence end. And we compare each number (index denoted by `l`)
 before the current number (index denoted by `r`), and see if they are
 strictly increasing (i.e. `nums[l] < nums[r]`). If this is the case,
-we update `dp[r]` to `std::max(dp[r], dp[l]+1)`. That is, either we
+we update `dp[r]` to `max(dp[r], dp[l]+1)`. That is, either we
 use the current value, or we use the length of `dp[l]` plus 1 because
 we're taking into account the current number.
 

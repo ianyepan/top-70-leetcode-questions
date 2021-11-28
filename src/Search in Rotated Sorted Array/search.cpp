@@ -4,7 +4,7 @@
 class Solution
 {
 public:
-  int search(std::vector<int> &nums, int target)
+  int search(vector<int> &nums, int target)
   {
     int n = nums.size();
     if (n == 0)

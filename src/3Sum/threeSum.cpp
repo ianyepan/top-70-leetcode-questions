@@ -4,15 +4,15 @@
 class Solution
 {
 public:
-  std::vector<std::vector<int>> threeSum(std::vector<int> &nums)
+  vector<vector<int>> threeSum(vector<int> &nums)
   {
-    std::vector<std::vector<int>> ans;
+    vector<vector<int>> ans;
     const int size = (int)nums.size();
     if (size < 3)
     {
       return ans;
     }
-    std::sort(nums.begin(), nums.end());
+    sort(nums.begin(), nums.end());
     for (int i = 0; i < size - 2; ++i)
     {
       // Skip duplicates

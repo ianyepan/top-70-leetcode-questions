@@ -3,10 +3,10 @@
 class Solution
 {
 public:
-  std::vector<int> productExceptSelf(std::vector<int> &nums)
+  vector<int> productExceptSelf(vector<int> &nums)
   {
     int n = (int)nums.size();
-    std::vector<int> L(n);
+    vector<int> L(n);
     L[0] = 1;
 
     for (int i = 1; i < n; ++i)

@@ -5,9 +5,9 @@
 class Solution
 {
 public:
-  int coinChange(std::vector<int> &coins, int amount)
+  int coinChange(vector<int> &coins, int amount)
   {
-    std::vector<long> dp(amount + 1, INT_MAX);
+    vector<long> dp(amount + 1, INT_MAX);
     dp[0] = 0; // 0 coins required to achieve 0 sum
 
     for (int i = 1; i <= amount; ++i)
@@ -16,7 +16,7 @@ public:
       {
         if (i >= val)
         {
-          dp[i] = std::min(dp[i], 1 + dp[i - val]);
+          dp[i] = min(dp[i], 1 + dp[i - val]);
         }
       }
     }

@@ -16,7 +16,7 @@ public:
       {
         return false;
       }
-      reachable = std::max(reachable, nums[i] + i);
+      reachable = max(reachable, nums[i] + i);
     }
     return reachable >= n - 1;
   }

@@ -11,7 +11,7 @@ An input string is valid if:
 
 ## How to Solve:
 
-We create a stack (`std::stack<char>` in C++) as our main data
+We create a stack (`stack<char>` in C++) as our main data
 structure. Whenever we encounter an opening bracket of any type, we
 push it to the stack. When we encounter a closing bracket of any type,
 we check whether the stack is empty, or if the stack's top (the one

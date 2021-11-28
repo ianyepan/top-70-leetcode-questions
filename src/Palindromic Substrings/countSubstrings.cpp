@@ -4,7 +4,7 @@
 class Solution
 {
 public:
-  int countSubstrings(std::string s)
+  int countSubstrings(string s)
   {
     int n = (int)s.length();
 
@@ -24,7 +24,7 @@ public:
   }
 
 private:
-  void expand(const std::string &s, const int len, int start, int end, int &count)
+  void expand(const string &s, const int len, int start, int end, int &count)
   {
     while (start >= 0 && end < len && s[start] == s[end])
     {

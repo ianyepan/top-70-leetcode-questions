@@ -17,5 +17,5 @@ compare the size of the original array and our new set.
 The syntax for creating a set out of a vector is as follows:
 
 ```cpp
-std::unordered_set<type> mySet(myVector.begin(), myVector.end());
+unordered_set<type> mySet(myVector.begin(), myVector.end());
 ```

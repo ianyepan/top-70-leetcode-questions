@@ -4,7 +4,7 @@
 class Solution
 {
 public:
-  int lengthOfLIS(std::vector<int> &nums)
+  int lengthOfLIS(vector<int> &nums)
   {
     if (nums.empty())
     {
@@ -12,7 +12,7 @@ public:
     }
 
     int n = (int)nums.size();
-    std::vector<int> dp(n, 1); // LIS with dp[i] as ending
+    vector<int> dp(n, 1); // LIS with dp[i] as ending
 
     for (int r = 0; r < n; ++r)
     {
@@ -20,11 +20,11 @@ public:
       {
         if (nums[r] > nums[l])
         {
-          dp[r] = std::max(dp[r], dp[l] + 1);
+          dp[r] = max(dp[r], dp[l] + 1);
         }
       }
     }
 
-    return *std::max_element(dp.begin(), dp.end());
+    return *max_element(dp.begin(), dp.end());
   }
 };

@@ -13,5 +13,5 @@ The base case is when the current position is `nullptr`, then we
 return `0`. Otherwise, we return:
 
 ```cpp
-return std::max(maxDepth(root->left), maxDepth(root->right)) + 1;
+return max(maxDepth(root->left), maxDepth(root->right)) + 1;
 ```

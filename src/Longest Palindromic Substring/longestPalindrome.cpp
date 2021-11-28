@@ -4,7 +4,7 @@
 class Solution
 {
 public:
-  std::string longestPalindrome(std::string s)
+  string longestPalindrome(string s)
   {
     int n = (int)s.length();
     int start = 0;   // starting index of current max palindrom
@@ -12,7 +12,7 @@ public:
 
     for (int i = 0; i < n; ++i)
     {
-      int cur = std::max(expandPalindromeLength(s, n, i, i),      // case odd
+      int cur = max(expandPalindromeLength(s, n, i, i),      // case odd
                          expandPalindromeLength(s, n, i, i + 1)); // case even
 
       if (cur > max_len) // update both 'starting index' and 'max_len'
@@ -26,7 +26,7 @@ public:
   }
 
 private:
-  int expandPalindromeLength(std::string &s, int n, int l, int r)
+  int expandPalindromeLength(string &s, int n, int l, int r)
   {
     while (l >= 0 && r <= n && s[l] == s[r])
     {

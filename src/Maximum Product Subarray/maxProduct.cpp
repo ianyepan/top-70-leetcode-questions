@@ -4,7 +4,7 @@
 class Solution
 {
 public:
-  int maxProduct(std::vector<int> &nums)
+  int maxProduct(vector<int> &nums)
   {
     int n = (int)nums.size();
     if (n == 0)
@@ -20,9 +20,9 @@ public:
       int cand1 = cur_max * nums[i]; // candidate 1
       int cand2 = cur_min * nums[i]; // candidate 2
       int cand3 = nums[i];           // candidate 3
-      cur_max = std::max({cand1, cand2, cand3});
-      cur_min = std::min({cand1, cand2, cand3});
-      max_prod = std::max(max_prod, cur_max);
+      cur_max = max({cand1, cand2, cand3});
+      cur_min = min({cand1, cand2, cand3});
+      max_prod = max(max_prod, cur_max);
     }
     return max_prod;
   }

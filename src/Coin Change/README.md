@@ -25,7 +25,7 @@ the amount (somewhere between 1 and `amount`) at hand, we perform the
 following update:
 
 ```cpp
-dp[i] = std::min(dp[i], 1 + dp[i - val]);
+dp[i] = min(dp[i], 1 + dp[i - val]);
 ```
 
 That is, we either keep the current value of `dp[i]`, or update it

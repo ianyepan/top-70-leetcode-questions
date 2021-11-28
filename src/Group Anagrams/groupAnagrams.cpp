@@ -6,15 +6,15 @@
 class Solution
 {
 public:
-  std::vector<std::vector<std::string>> groupAnagrams(std::vector<std::string> &strs)
+  vector<vector<string>> groupAnagrams(vector<string> &strs)
   {
-    std::unordered_map<std::string, std::vector<std::string>> m;
-    std::vector<std::vector<std::string>> ans;
+    unordered_map<string, vector<string>> m;
+    vector<vector<string>> ans;
 
     for (const auto &s : strs)
     {
       auto s_sorted = s;
-      std::sort(s_sorted.begin(), s_sorted.end());
+      sort(s_sorted.begin(), s_sorted.end());
       m[s_sorted].push_back(s);
     }
 

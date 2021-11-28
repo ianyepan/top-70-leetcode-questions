@@ -4,14 +4,14 @@
 class Solution
 {
 public:
-  bool isAnagram(std::string s, std::string t)
+  bool isAnagram(string s, string t)
   {
     if (s.length() != t.length())
     {
       return false;
     }
 
-    std::unordered_map<char, int> m;
+    unordered_map<char, int> m;
     for (const auto &ch : s)
     {
       m[ch] += 1;

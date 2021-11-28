@@ -48,7 +48,7 @@ class Solution
 public:
   bool hasCycle(ListNode *head)
   {
-    std::unordered_set<ListNode *> seen;
+    unordered_set<ListNode *> seen;
     ListNode *curr = head;
     while (curr)
     {
