@@ -8,7 +8,6 @@ class Solution {
     if (n == 1) {
       return nums[0];
     }
-
     vector<int> rob(n + 1);
     rob[0] = 0;  // important initialization
     rob[1] = nums[0];

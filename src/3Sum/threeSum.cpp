@@ -16,7 +16,6 @@ class Solution {
       if (nums[i] + nums[i + 1] + nums[i + 2] > 0 || nums[i] + nums[size - 1] + nums[size - 2] < 0) {
         continue;
       }
-
       const int target = 0 - nums[i];
       int low = i + 1, high = size - 1;
       while (low < high) {

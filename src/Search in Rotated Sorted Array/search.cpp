@@ -1,13 +1,9 @@
-
-
 class Solution {
  public:
   int search(vector<int> &nums, int target) {
     int n = nums.size();
     if (n == 0) return -1;
-
     int low = 0, high = n - 1, mid = low + (high - low) / 2, min_idx;
-
     if (nums[low] < nums[high])  // already sorted
     {
       min_idx = 0;
@@ -21,7 +17,6 @@ class Solution {
         }
       }
       min_idx = low;
-
       // Reset low & high
       low = 0;
       high = n - 1;
@@ -38,7 +33,6 @@ class Solution {
     else {
       high = min_idx - 1;
     }
-
     // Normal binary search after getting correct low & high
     while (low <= high) {
       mid = low + (high - low) / 2;
@@ -50,7 +44,6 @@ class Solution {
         high = mid - 1;
       }
     }
-
     return -1;  // not found
   }
 };

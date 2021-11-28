@@ -9,7 +9,6 @@ struct TreeNode {
   TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {
   }
 };
-
 class Solution {
  public:
   bool isSameTree(TreeNode *p, TreeNode *q) {
@@ -19,11 +18,9 @@ class Solution {
     if (!p || !q) {
       return false;  // if only of them is nullptr
     }
-
     if (p->val != q->val) {
       return false;
     }
-
     return isSameTree(p->left, q->left) && isSameTree(p->right, q->right);
   }
 };

@@ -1,5 +1,3 @@
-
-
 class Solution {
  public:
   int maxProduct(vector<int> &nums) {
@@ -9,8 +7,7 @@ class Solution {
     }
     int max_prod = nums[0];  // eventually our answer
     int cur_max = nums[0];   // max prod up till current num
-
-    int cur_min = nums[0];  // min prod up till current min
+    int cur_min = nums[0];   // min prod up till current min
     for (int i = 1; i < n; ++i) {
       int cand1 = cur_max * nums[i];  // candidate 1
       int cand2 = cur_min * nums[i];  // candidate 2

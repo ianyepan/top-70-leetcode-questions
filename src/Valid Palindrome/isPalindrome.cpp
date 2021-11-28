@@ -1,5 +1,3 @@
-
-
 class Solution {
  public:
   bool isPalindrome(string s) {
@@ -9,7 +7,6 @@ class Solution {
         new_str.push_back(tolower(ch));
       }
     }
-
     int n = (int)new_str.length();
     for (int i = 0; i < n / 2; ++i) {
       if (new_str[i] != new_str[n - 1 - i]) {

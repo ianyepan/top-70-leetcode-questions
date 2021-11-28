@@ -6,7 +6,6 @@ class Solution {
       return answer;
     }
     answer.push_back("");
-
     vector<string> buffer;
     for (const char &digit : digits) {
       for (const char &letter : mappings[digit]) {

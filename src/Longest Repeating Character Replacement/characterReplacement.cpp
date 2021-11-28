@@ -1,5 +1,3 @@
-
-
 class Solution {
  public:
   int characterReplacement(string s, int k) {
@@ -7,7 +5,6 @@ class Solution {
     unordered_map<char, int> count;  // character frequencies in the sliding window
     int max_length = 0;              // longest consecutive substring so far (after operations). Eventually our answer.
     int most_freq_letter = 0;        // most frequent char in the sliding window
-
     int start = 0;
     for (int end = 0; end < n; ++end)  // 'end' loops through the string normally
     {

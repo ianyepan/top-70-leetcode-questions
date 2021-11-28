@@ -1,5 +1,3 @@
-
-
 struct TreeNode {
   int val;
   TreeNode *left;
@@ -11,7 +9,6 @@ struct TreeNode {
   TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {
   }
 };
-
 class Solution {
  public:
   TreeNode *invertTree(TreeNode *root) {
@@ -24,7 +21,6 @@ class Solution {
     if (!root) {
       return;
     }
-
     swapLR(root->left);
     swapLR(root->right);
     TreeNode *tmp;
