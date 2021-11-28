@@ -58,7 +58,7 @@ P.s. Safely ignore the "Status". It's for my personal use.
 |✔|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) **(Medium)** |[Answer](src/Longest%20Increasing%20Subsequence)|
 |✔|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) **(Medium)** |[Answer](src/Longest%20Common%20Subsequence)|
 |✔|[Word Break](https://leetcode.com/problems/word-break/) **(Medium)** |Answer|
-|❌| [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) **(Medium)** |Answer|
+|✔| [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) **(Medium)** |Answer|
 |✔|[House Robber II](https://leetcode.com/problems/house-robber-ii/) **(Medium)** |Answer|
 |✔| [Decode Ways](https://leetcode.com/problems/decode-ways/) **(Medium)** |Answer|
 |✔|[Unique Paths](https://leetcode.com/problems/unique-paths/) **(Medium)** |[Answer](src/Unique%20Paths)|
@@ -96,7 +96,7 @@ P.s. Safely ignore the "Status". It's for my personal use.
 | Status | Question & Submission Link | My C++ Implementation |
 | ------ | -------------------------- | --------------------- |
 |✔|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) **(Medium)** | Answer |
-|❌|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) **(Hard)** | Answer |
+|✔|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) **(Hard)** | Answer |
 |❌|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) **(Hard)** | Answer |
 
 ### Tree
@@ -123,10 +123,10 @@ P.s. Safely ignore the "Status". It's for my personal use.
 | Status | Question & Submission Link | My C++ Implementation |
 | ------ | -------------------------- | --------------------- |
 |✔|[Number of Islands](https://leetcode.com/problems/number-of-islands/) **(Medium)** | Answer |
-|❌|[Clone Graph](https://leetcode.com/problems/clone-graph/) **(Medium)** | Answer |
-|❌|[Course Schedule](https://leetcode.com/problems/course-schedule/) **(Medium)** | Answer |
+|✔|[Clone Graph](https://leetcode.com/problems/clone-graph/) **(Medium)** | Answer |
+|✔|[Course Schedule](https://leetcode.com/problems/course-schedule/) **(Medium)** | Answer |
 |❌|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) **(Medium)** | Answer |
-|❌|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) **(Hard)** | Answer |
+|✔|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) **(Hard)** | Answer |
 
 ### Binary
 
