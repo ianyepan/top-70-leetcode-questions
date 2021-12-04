@@ -107,7 +107,7 @@ P.s. Safely ignore the "Status". It's for my personal use.
 |✔|[Same Tree](https://leetcode.com/problems/same-tree/) **(Easy)** | [Answer](src/Same%20Tree) |
 |✔|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) **(Easy)** | [Answer](src/Invert%20Binary%20Tree) |
 |✔|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) **(Easy)** | Answer |
-|✔|[Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) **(Easy)** | Answer |
+|✔|[Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) **(Easy)** | [Answer](src/Lowest%20Common%20Ancestor%20of%20BST) |
 |✔|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) **(Medium)** | Answer |
 |✔|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) **(Medium)** | Answer |
 |✔|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) **(Medium)** | Answer |
