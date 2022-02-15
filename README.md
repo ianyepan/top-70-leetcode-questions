@@ -88,7 +88,7 @@ P.s. Safely ignore the "Status". It's for my personal use.
 | ------ | -------------------------- | --------------------- |
 |✔|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) **(Medium)** | [Answer](src/Set%20Matrix%20Zeroes) |
 |✔|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) **(Medium)** | [Answer](src/Spiral%20Matrix) |
-|✔|[Rotate Image](https://leetcode.com/problems/rotate-image/) **(Medium)** | Answer |
+|✔|[Rotate Image](https://leetcode.com/problems/rotate-image/) **(Medium)** | [Answer](src/Rotate%20Image) |
 |✔|[Word Search](https://leetcode.com/problems/word-search/) **(Medium)** | Answer |
 
 ### Heap
