@@ -110,7 +110,7 @@ P.s. Safely ignore the "Status". It's for my personal use.
 |✔|[Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) **(Easy)** | [Answer](src/Lowest%20Common%20Ancestor%20of%20BST) |
 |✔|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) **(Medium)** | [Answer](src/Binary%20Tree%20Level%20Order%20Traversal) |
 |✔|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) **(Medium)** | [Answer](src/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal) |
-|✔|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) **(Medium)** | Answer |
+|✔|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) **(Medium)** | [Answer](src/Validate%20Binary%20Search%20Tree) |
 |✔|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) **(Medium)** | Answer |
 |✔|[Implement Trie, i.e. Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) **(Medium)** | Answer |
 |❌|[Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/) **(Medium)** | Answer |
