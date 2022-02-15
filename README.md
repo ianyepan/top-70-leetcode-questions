@@ -87,7 +87,7 @@ P.s. Safely ignore the "Status". It's for my personal use.
 | Status | Question & Submission Link | My C++ Implementation |
 | ------ | -------------------------- | --------------------- |
 |✔|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) **(Medium)** | [Answer](src/Set%20Matrix%20Zeroes) |
-|✔|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) **(Medium)** | Answer |
+|✔|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) **(Medium)** | [Answer](src/Spiral%20Matrix) |
 |✔|[Rotate Image](https://leetcode.com/problems/rotate-image/) **(Medium)** | Answer |
 |✔|[Word Search](https://leetcode.com/problems/word-search/) **(Medium)** | Answer |
 
