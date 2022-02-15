@@ -96,7 +96,7 @@ P.s. Safely ignore the "Status". It's for my personal use.
 | Status | Question & Submission Link | My C++ Implementation |
 | ------ | -------------------------- | --------------------- |
 |✔|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) **(Medium)** | [Answer](src/Top%20K%20Frequent%20Elements) |
-|✔|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) **(Hard)** | Answer |
+|✔|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) **(Hard)** | [Answer](src/Merge%20K%20Sorted%20Lists) |
 |❌|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) **(Hard)** | Answer |
 
 ### Tree
