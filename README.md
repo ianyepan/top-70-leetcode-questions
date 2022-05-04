@@ -13,8 +13,9 @@
 
 The following curated list is ordered by topics. Clicking on the
 **question title** takes you to the corresponding LeetCode submission
-page. Clicking on each **Answer** takes you to my C++ solution with a
-markdown file explaining my thought process.
+page. Clicking on each **Answer** takes you to a short
+markdown file explaining my thought process, and an attached **C++ program that 
+is guaranteed to be correct on the LeetCode platform**.
 
 P.s. Safely ignore the "Status". It's for my personal use.
 
