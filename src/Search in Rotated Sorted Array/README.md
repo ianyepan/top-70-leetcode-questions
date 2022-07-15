@@ -36,8 +36,7 @@ class Solution {
     int n = nums.size();
     if (n == 0) return -1;
     int low = 0, high = n - 1, mid = low + (high - low) / 2, min_idx;
-    if (nums[low] < nums[high])  // already sorted
-    {
+    if (nums[low] < nums[high]) {  // already sorted
       min_idx = 0;
     } else {
       while (low < high) {
