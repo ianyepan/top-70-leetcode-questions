@@ -33,3 +33,23 @@ with one plus the number of coins needed to make up the amount `i -
 val`, whichever is smaller. The "one plus" comes from the fact that we
 will be using the current coin value once, totaling the amount
 `i`. Essentially, for every amount leading up to `amount`, we try all the coin face values and update the DP array repeatedly.
+
+## My C++ Solution:
+
+```cpp
+class Solution {
+ public:
+  int coinChange(vector<int> &coins, int amount) {
+    vector<long> dp(amount + 1, INT_MAX);
+    dp[0] = 0;  // 0 coins required to achieve 0 sum
+    for (int i = 1; i <= amount; ++i) {
+      for (const auto &val : coins) {
+        if (i >= val) {
+          dp[i] = min(dp[i], 1 + dp[i - val]);
+        }
+      }
+    }
+    return dp[amount] == INT_MAX ? -1 : dp[amount];
+  }
+};
+```

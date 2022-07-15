@@ -29,3 +29,26 @@ use the current value, or we use the length of `dp[l]` plus 1 because
 we're taking into account the current number.
 
 In the end we simply return the maximum element in vector `dp`.
+
+## My C++ Solution:
+
+```cpp
+class Solution {
+ public:
+  int lengthOfLIS(vector<int> &nums) {
+    if (nums.empty()) {
+      return 0;
+    }
+    int n = (int)nums.size();
+    vector<int> dp(n, 1);  // LIS with dp[i] as ending
+    for (int r = 0; r < n; ++r) {
+      for (int l = 0; l < r; ++l) {
+        if (nums[r] > nums[l]) {
+          dp[r] = max(dp[r], dp[l] + 1);
+        }
+      }
+    }
+    return *max_element(dp.begin(), dp.end());
+  }
+};
+```

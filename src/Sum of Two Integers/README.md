@@ -25,3 +25,19 @@ iteration, after it's been left-shifted.
 GeeksForGeeks](https://www.geeksforgeeks.org/add-two-numbers-without-using-arithmetic-operators/)
 
 [Reference 2: Back to Back SWE](https://www.youtube.com/watch?v=qq64FrA2UXQ)
+
+## My C++ Solution:
+
+```cpp
+class Solution {
+ public:
+  int getSum(int x, int y) {
+    while (y != 0) {
+      unsigned int carry = x & y;  // AND: calculate carry
+      x = x ^ y;                   // XOR: actual addition for each current position
+      y = carry << 1;              // left shift carry
+    }
+    return x;
+  }
+};
+```

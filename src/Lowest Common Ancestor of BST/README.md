@@ -23,3 +23,24 @@ advance current node to his left subtree.
 
 If neither case holds true, it means we have arrived at the "split
 point", where `curr` is exactly the lowest common ancestor of p and q.
+
+## My C++ Solution:
+
+```cpp
+class Solution {
+ public:
+  TreeNode *lowestCommonAncestor(TreeNode *root, TreeNode *p, TreeNode *q) {
+    auto curr = root;
+    while (curr) {
+      if (curr->val < p->val && curr->val < q->val) {
+        curr = curr->right;
+      } else if (curr->val > p->val && curr->val > q->val) {
+        curr = curr->left;
+      } else {
+        return curr;
+      }
+    }
+    __builtin_unreachable();
+  }
+};
+```

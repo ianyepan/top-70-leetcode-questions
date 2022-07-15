@@ -40,3 +40,30 @@ Our base case would be `combs4(0)`, which is simply `1`.
 
 As for the memoization, we can make use of a hashmap that records
 pre-calculated `combs4(number)`.
+
+## My C++ Solution:
+
+```cpp
+class Solution {
+ public:
+  int combinationSum4(vector<int> &nums, int target) {
+    if (target == 0) {
+      return 1;
+    }
+    if (combs4.find(target) != combs4.end()) {
+      return combs4[target];
+    }
+    int result = 0;
+    for (int num : nums) {
+      if (target - num >= 0) {
+        result += combinationSum4(nums, target - num);
+      }
+    }
+    combs4[target] = result;
+    return result;
+  }
+
+ private:
+  unordered_map<int, int> combs4;
+};
+```

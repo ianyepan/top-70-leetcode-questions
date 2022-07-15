@@ -21,3 +21,31 @@ valid. If both condition passes, we simply pop the stack's top, and
 proceed to reading the next character.
 
 In the end, we check if the stack is empty.
+
+## My C++ Solution:
+
+```cpp
+class Solution {
+ public:
+  bool isValid(string s) {
+    stack<char> stk;
+    unordered_map<char, char> m{{'}', '{'}, {']', '['}, {')', '('}};
+    for (const auto &ch : s) {
+      if (is_opening(ch)) {
+        stk.push(ch);
+      } else {
+        if (stk.empty() || stk.top() != m[ch]) {
+          return false;
+        }
+        stk.pop();
+      }
+    }
+    return stk.empty();
+  }
+
+ private:
+  bool is_opening(char ch) {
+    return ch == '{' || ch == '(' || ch == '[';
+  }
+};
+```

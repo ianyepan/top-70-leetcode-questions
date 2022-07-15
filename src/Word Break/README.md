@@ -48,3 +48,37 @@ every left-half-right-half pair, determine if the left half is already
 in the `dp` hashmap "and" its value is true, and then recursively call
 the helper function on the right half to see whether its value is true
 as well.
+
+## My C++ Solution:
+
+```cpp
+class Solution {
+ public:
+  bool wordBreak(const string &s, const vector<string> &wordDict) {
+    for (auto &word : wordDict) {
+      dp[word] = true;
+    }
+    return helper(s);
+  }
+
+ private:
+  unordered_map<string, bool> dp;
+  bool helper(const string &s) {
+    if (dp.find(s) != dp.end()) {
+      return dp[s];
+    }
+    int n = s.length();
+    for (int i = 1; i < n; ++i) {
+      auto leftHalf = s.substr(0, i);
+      auto rightHalf = s.substr(i);
+      auto it = dp.find(leftHalf);
+      if (it != dp.end() && dp[leftHalf] && helper(rightHalf)) {
+        dp[s] = true;
+        return true;
+      }
+    }
+    dp[s] = false;
+    return false;
+  }
+};
+```

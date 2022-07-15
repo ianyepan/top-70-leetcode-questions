@@ -17,3 +17,29 @@ corresponding value. We traverse each character of `s` and increase
 the corresponding frequencies, then later traverse each character of
 `t` and **decrease** the corresponding frequencies. In the end, we
 check whether all frequencies are back at zero.
+
+## My C++ Solution:
+
+```cpp
+class Solution {
+ public:
+  bool isAnagram(string s, string t) {
+    if (s.length() != t.length()) {
+      return false;
+    }
+    unordered_map<char, int> m;
+    for (const auto &ch : s) {
+      m[ch] += 1;
+    }
+    for (const auto &ch : t) {
+      m[ch] -= 1;
+    }
+    for (const auto &pp : m) {
+      if (pp.second != 0) {
+        return false;
+      }
+    }
+    return true;
+  }
+};
+```

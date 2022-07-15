@@ -23,3 +23,25 @@ adjust the lower/upper bounds in each function call.
 Since the node's values can range from `INT_MIN` to `INT_MAX`, we use
 `LLONG_MIN` (long long min) and `LLONG_MAX` (long long max) as initial
 ranges for the root.
+
+## My C++ Solution:
+
+```cpp
+class Solution {
+ public:
+  bool isValidBST(TreeNode *root) {
+    return helper(root, LLONG_MIN, LLONG_MAX);
+  }
+
+ private:
+  bool helper(TreeNode *root, long long lowerBound, long long upperBound) {
+    if (!root) {
+      return true;
+    }
+    if (root->val <= lowerBound || root->val >= upperBound) {
+      return false;
+    }
+    return helper(root->left, lowerBound, root->val) && helper(root->right, root->val, upperBound);
+  }
+};
+```

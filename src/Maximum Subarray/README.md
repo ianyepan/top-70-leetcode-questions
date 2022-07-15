@@ -27,3 +27,20 @@ largest sum ending at the current position.
 Maintaining the variable `maxSoFar` is easy, at each iteration we just
 check if `maxEndingHere` ever exceeds `maxSoFar`: if so, we update the
 latter to be the former.
+
+## My C++ Solution:
+
+```cpp
+class Solution {
+ public:
+  int maxSubArray(vector<int> &nums) {
+    int maxEndingHere = 0;
+    int maxSoFar = INT_MIN;
+    for (const auto &num : nums) {
+      maxEndingHere = max(maxEndingHere + num, num);
+      maxSoFar = max(maxSoFar, maxEndingHere);
+    }
+    return maxSoFar;
+  }
+};
+```
