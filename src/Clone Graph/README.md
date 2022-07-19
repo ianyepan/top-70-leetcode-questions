@@ -15,8 +15,6 @@ maintaining a hash map that maps the original node to the cloned node
 (in C++, created with `new`). In general, BFS is slightly faster than
 DFS in this problem, though DFS is easier to understand.
 
-Let's start with the DFS approach:
-
 ### DFS
 
 We write a helper DFS function that recursively tries to populate the
