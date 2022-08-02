@@ -27,25 +27,30 @@ In the end, we check if the stack is empty.
 ```cpp
 class Solution {
  public:
-  bool isValid(string s) {
-    stack<char> stk;
-    unordered_map<char, char> m{{'}', '{'}, {']', '['}, {')', '('}};
-    for (const auto &ch : s) {
-      if (is_opening(ch)) {
-        stk.push(ch);
-      } else {
-        if (stk.empty() || stk.top() != m[ch]) {
-          return false;
-        }
-        stk.pop();
+  auto isValid(const string &s) -> bool {
+    for (const auto ch : s) {
+      if (ch == '(' || ch == '[' || ch == '{') {
+        parentheses_stack.push(ch);
+        continue;
       }
+
+      if (parentheses_stack.empty() ||
+          parentheses_stack.top() != parentheses_map.at(ch)) {
+        return false;
+      }
+
+      parentheses_stack.pop();
     }
-    return stk.empty();
+
+    return parentheses_stack.empty();
   }
 
  private:
-  bool is_opening(char ch) {
-    return ch == '{' || ch == '(' || ch == '[';
-  }
+  const unordered_map<char, char> parentheses_map{
+      {')', '('},
+      {']', '['},
+      {'}', '{'},
+  };
+  stack<char> parentheses_stack;
 };
 ```
