@@ -33,8 +33,8 @@ to calculating which of two following cases is more profitable:
 - Loot from the previous house robbery and any loot captured before
   that.
 
-If we let `rob(i)` be the loot that we get from a cumulation up to
-house i (, in which house i must be robbed). We have the following relation:
+If we let `rob(i)` be the max loot that we get from a cumulation up to
+house i. We have the following relation:
 
 `rob(i) = max(rob(i - 2) + currentHouseValue, rob(i - 1))`
 
