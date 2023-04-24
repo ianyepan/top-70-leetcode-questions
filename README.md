@@ -114,7 +114,7 @@ P.s. Safely ignore the "Status". It's for my personal use.
 |✔|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) **(Medium)** | [Answer](src/Validate%20Binary%20Search%20Tree) |
 |✔|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) **(Medium)** | Answer |
 |✔|[Implement Trie, i.e. Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) **(Medium)** | Answer |
-|❌|[Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/) **(Medium)** | Answer |
+|✔|[Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/) **(Medium)** | Answer |
 |❌|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) **(Hard)** | Answer |
 |❌|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) **(Hard)** | Answer |
 |❌|[Word Search II](https://leetcode.com/problems/word-search-ii/) **(Hard)** | Answer |
