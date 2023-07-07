@@ -2,7 +2,7 @@
 
 ## Question:
 
-iven a binary search tree (BST), find the lowest common ancestor (LCA)
+Given a binary search tree (BST), find the lowest common ancestor (LCA)
 of two given nodes in the BST.
 
 According to the definition of LCA on Wikipedia: “The lowest common
