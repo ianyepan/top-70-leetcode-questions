@@ -25,13 +25,13 @@ is more efficient and makes the code more readable.
 The method is best understood by example. Copy-pasting directly
 from the discussion thread, here's an intuitive example:
 
-### Explanation with sample input "123"
+### Explanation with sample input "234"
 
 #### Initial state:
 
 - answer = {""}
 
-#### Stage 1 for number "1":
+#### Stage 1, number "2":
 
 - answer has {""}
 - letters are "abc"
@@ -40,7 +40,7 @@ from the discussion thread, here's an intuitive example:
 - swap answer and buffer (swap does not take memory copy)
 - Now answer has {"a", "b", "c"}
 
-#### Stage 2 for number "2":
+#### Stage 2, number "3":
 
 - answer has {"a", "b", "c"}
 - letters are "def"
@@ -52,7 +52,7 @@ from the discussion thread, here's an intuitive example:
 - swap answer and buffer
 - Now answer has {"ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf" }
 
-#### Stage 3 for number "3":
+#### Stage 3, number "4":
 
 - answer has {"ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf" }
 - letters are "ghi"
