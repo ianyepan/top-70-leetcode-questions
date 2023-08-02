@@ -22,7 +22,7 @@ instead of modifying the answer vector in every minor
 iteration. Updating a bigger chunk at once with the help of `buffer`
 is more efficient and makes the code more readable.
 
-The method is best understood by and example. Copy-pasting directly
+The method is best understood by example. Copy-pasting directly
 from the discussion thread, here's an intuitive example:
 
 ### Explanation with sample input "123"
