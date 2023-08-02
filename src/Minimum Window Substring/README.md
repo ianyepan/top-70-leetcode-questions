@@ -44,7 +44,7 @@ length. We do so with a normal while-loop.
 
 Finally, we realize that we can actually use vectors of size 128
 (which will definitely include `a..z` and `A..Z`) instead of
-unordered_maps to speed up the performance. In `minWindow.cpp`, I
+unordered_maps to speed up the performance. Below, I
 implement both solutions.
 
 ## My C++ Solution:
