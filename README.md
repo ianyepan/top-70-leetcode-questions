@@ -98,7 +98,7 @@ P.s. Safely ignore the "Status". It's for my personal use.
 | ------ | -------------------------- | --------------------- |
 |✔|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) **(Medium)** | [Answer](src/Top%20K%20Frequent%20Elements) |
 |✔|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) **(Hard)** | [Answer](src/Merge%20K%20Sorted%20Lists) |
-|❌|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) **(Hard)** | Answer |
+|✔|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) **(Hard)** | Answer |
 
 ### Tree
 
@@ -115,8 +115,8 @@ P.s. Safely ignore the "Status". It's for my personal use.
 |✔|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) **(Medium)** | Answer |
 |✔|[Implement Trie, i.e. Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) **(Medium)** | Answer |
 |✔|[Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/) **(Medium)** | Answer |
-|❌|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) **(Hard)** | Answer |
-|❌|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) **(Hard)** | Answer |
+|✔|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) **(Hard)** | Answer |
+|✔|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) **(Hard)** | Answer |
 |❌|[Word Search II](https://leetcode.com/problems/word-search-ii/) **(Hard)** | Answer |
 
 ### Graph
