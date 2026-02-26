@@ -137,7 +137,7 @@ P.s. Safely ignore the "Status". It's for my personal use.
 |✔|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) **(Easy)** | [Answer](src/Number%20of%201%20Bits) |
 |✔|[Missing Number](https://leetcode.com/problems/missing-number/) **(Easy)** | [Answer](src/Missing%20Number) |
 |✔|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) **(Easy)** | [Answer](src/Reverse%20Bits) |
-|❌|[Counting Bits](https://leetcode.com/problems/counting-bits/) **(Medium)** | Answer |
+|✔|[Counting Bits](https://leetcode.com/problems/counting-bits/) **(Medium)** | [Answer](Counting%20Bits) |
 
 <br/>
 
