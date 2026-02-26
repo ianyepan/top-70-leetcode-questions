@@ -134,7 +134,7 @@ P.s. Safely ignore the "Status". It's for my personal use.
 | Status | Question & Submission Link | My C++ Implementation |
 | ------ | -------------------------- | --------------------- |
 |✔|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) **(Easy)** | [Answer](src/Sum%20of%20Two%20Integers) |
-|❌|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) **(Easy)** | Answer |
+|✔|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) **(Easy)** | [Answer](src/Number%20of%201%20Bits) |
 |✔|[Missing Number](https://leetcode.com/problems/missing-number/) **(Easy)** | Answer |
 |❌|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) **(Easy)** | Answer |
 |❌|[Counting Bits](https://leetcode.com/problems/counting-bits/) **(Medium)** | Answer |
