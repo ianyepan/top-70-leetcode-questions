@@ -17,7 +17,7 @@ our bitmasks (see comment in code).
 
 ## My C++ Solution:
 
-```log
+```cpp
 class Solution {
 public:
     int reverseBits(int n) {
