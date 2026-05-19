@@ -17,7 +17,8 @@ page. Clicking on each **Answer** takes you to a short
 markdown file explaining my thought process, and an attached **C++ program that 
 is guaranteed to be correct on the LeetCode platform**.
 
-P.s. Safely ignore the "Status" column. It's for my personal use.
+P.s. Safely ignore the "Status" column. It's for my personal use to
+keep track whether I've already solved the problem on LeetCode or not.
 
 ### Array
 
@@ -117,7 +118,7 @@ P.s. Safely ignore the "Status" column. It's for my personal use.
 |✔|[Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/) **(Medium)** | Answer |
 |✔|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) **(Hard)** | Answer |
 |✔|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) **(Hard)** | Answer |
-|❌|[Word Search II](https://leetcode.com/problems/word-search-ii/) **(Hard)** | Answer |
+|✔|[Word Search II](https://leetcode.com/problems/word-search-ii/) **(Hard)** | Answer |
 
 ### Graph
 
