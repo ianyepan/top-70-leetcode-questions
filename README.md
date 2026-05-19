@@ -17,7 +17,7 @@ page. Clicking on each **Answer** takes you to a short
 markdown file explaining my thought process, and an attached **C++ program that 
 is guaranteed to be correct on the LeetCode platform**.
 
-P.s. Safely ignore the "Status". It's for my personal use.
+P.s. Safely ignore the "Status" column. It's for my personal use.
 
 ### Array
 
