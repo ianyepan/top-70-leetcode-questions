@@ -2,6 +2,10 @@
 
 ## Question:
 
+This problem is categorized as Easy because it can be solved by simply
+iterating with `__builtin_popcount()`. Below I walk through the
+optimal solution, which is around entry-level Medium difficulty.
+
 We may solve this problem using a combination of bit manipulation and
 DP. Intuition: for any number x, its number of bits would the number
 of bits of x right-shifted by one, i.e. (x >> 1), **plus** whether x's
